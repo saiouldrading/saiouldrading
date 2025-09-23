@@ -1,168 +1,236 @@
-# 🎮 Muhammad Saim
-### `Game Developer` • `Unity Specialist` • `Interactive Storyteller`
-
 <div align="center">
 
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Crafting+Immersive+Gaming+Experiences;Building+the+Future+of+Interactive+Media;Turning+Ideas+Into+Playable+Adventures)
+# 🚀 MUHAMMAD SAIM
+## ⚡ **ELITE GAME DEVELOPER** ⚡
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saim-a26349358/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/saimk.k18/)
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=2000&pause=500&color=00FF41&center=true&vCenter=true&width=800&height=100&lines=🎮+CRAFTING+DIGITAL+WORLDS;⚔️+CODE+WARRIOR+%26+PIXEL+MASTER;🔥+TURNING+DREAMS+INTO+GAMES;💀+SURVIVAL+HORROR+SPECIALIST;🌟+FUTURE+GAME+DEV+LEGEND" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=header&text=GAME%20DEV%20EMPIRE&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35" />
 
 </div>
 
 ---
 
-## 🎯 **Vision Statement**
-> *"Creating games that don't just entertain, but leave lasting emotional impact. Every line of code, every design choice, every mechanic serves the greater purpose of immersive storytelling."*
-
----
-
-## 🛡️ **Core Specializations**
-
-```yaml
-Primary Focus:
-  - 🎮 Game Development & Architecture
-  - 🎭 Interactive Narrative Design  
-  - ⚡ Performance Optimization
-  - 🎨 Gameplay Mechanics Engineering
-
-Signature Style:
-  - Story-Driven Experiences
-  - Realistic Physics Systems
-  - Atmospheric Horror Elements
-  - Dynamic Survival Mechanics
-```
-
----
-
-## 🔥 **Technical Arsenal**
-
 <div align="center">
 
-### **Game Engines & Frameworks**
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+### 🎯 **LEGENDARY QUOTE**
+> *"I don't just make games... I CREATE UNIVERSES where players lose themselves and find their souls."*
 
-### **Programming Languages**
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+<img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" width="500"/>
 
-### **Creative Tools**
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-
-### **Development Ecosystem**
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/🎮_MY_GAME_EMPIRE-FF0000?style=for-the-badge&logo=steam&logoColor=white&labelColor=000000)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/💼_PROFESSIONAL_NETWORK-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saim-a26349358/)
+[![Instagram](https://img.shields.io/badge/📸_BEHIND_THE_SCENES-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/saimk.k18/)
 
 </div>
 
 ---
 
-## 🎮 **Game Development Philosophy**
+<div align="center">
 
-<table>
+## 🔥 **THE GAME DEV ARSENAL** 🔥
+
+<img src="https://skillicons.dev/icons?i=unity,unreal,cs,cpp,python,blender,photoshop,vscode,git,github" />
+
+### ⚡ **POWER LEVEL: OVER 9000!** ⚡
+
+</div>
+
+<table align="center">
 <tr>
-<td width="50%">
-
-### 🎭 **Narrative Excellence**
-- Every mechanic tells a story
-- Player agency drives emotional connection
-- Environmental storytelling mastery
-- Character development through gameplay
-
+<td align="center" width="25%">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<h3>🎮 GAME ENGINES</h3>
+<img src="https://img.shields.io/badge/Unity-MASTER-black?style=for-the-badge&logo=unity&logoColor=white&color=FF4500">
+<br>
+<img src="https://img.shields.io/badge/Unreal-RISING-black?style=for-the-badge&logo=unrealengine&logoColor=white&color=8A2BE2">
 </td>
-<td width="50%">
-
-### ⚡ **Technical Innovation**
-- Clean, maintainable code architecture
-- Performance-first optimization
-- Scalable system design
-- Cross-platform compatibility focus
-
+<td align="center" width="25%">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<h3>💻 CODING POWERS</h3>
+<img src="https://img.shields.io/badge/C%23-WIZARD-239120?style=for-the-badge&logo=csharp&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/C++-WARRIOR-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+</td>
+<td align="center" width="25%">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<h3>🎨 CREATIVE ARSENAL</h3>
+<img src="https://img.shields.io/badge/Photoshop-ARTIST-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Blender-3D_GOD-F5792A?style=for-the-badge&logo=blender&logoColor=white">
+</td>
+<td align="center" width="25%">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+<h3>🚀 FUTURE TECH</h3>
+<img src="https://img.shields.io/badge/VR/AR-PIONEER-FF6B6B?style=for-the-badge&logo=oculus&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/AI-INTEGRATION-00D9FF?style=for-the-badge&logo=tensorflow&logoColor=white">
 </td>
 </tr>
 </table>
 
 ---
 
-## 🏆 **Inspiration & Influences**
-
 <div align="center">
 
-| **Survival Horror** | **Open World** | **Action Adventure** | **Sports Simulation** |
-|:---:|:---:|:---:|:---:|
-| 🧟 Dying Light | 🤠 Red Dead Redemption 2 | 🗺️ Uncharted Series | ⚽ FIFA Franchise |
-| *Dynamic Day/Night* | *Living World Systems* | *Cinematic Storytelling* | *Realistic Physics* |
+## 🏆 **HALL OF FAME INSPIRATIONS** 🏆
+
+<table>
+<tr>
+<td align="center">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/fire.gif" width="50px">
+<br><b>🧟 DYING LIGHT</b><br>
+<i>Night Terror Mastery</i>
+</td>
+<td align="center">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/fire.gif" width="50px">
+<br><b>🤠 RED DEAD 2</b><br>
+<i>Living World Magic</i>
+</td>
+<td align="center">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/fire.gif" width="50px">
+<br><b>🗺️ UNCHARTED</b><br>
+<i>Adventure Storytelling</i>
+</td>
+<td align="center">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/fire.gif" width="50px">
+<br><b>⚔️ SKYRIM</b><br>
+<i>Epic RPG Systems</i>
+</td>
+<td align="center">
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/fire.gif" width="50px">
+<br><b>⚽ FIFA</b><br>
+<i>Realistic Physics</i>
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 📈 **GitHub Analytics**
-
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saiouldrading&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiouldrading&layout=compact&langs_count=8&theme=tokyonight"/>
+## 💀 **THE CODE MATRIX** 💀
 
-</div>
-
----
-
-## 🚀 **Current Development Focus**
-
-```cs
-public class GameDeveloper : MonoBehaviour 
-{
-    [Header("Current Projects")]
-    public string[] activeDevelopment = {
-        "🎮 Survival Horror Prototype",
-        "🏗️ Game Architecture Patterns",
-        "🎨 Procedural World Generation",
-        "⚡ Performance Optimization Studies"
+```cpp
+class LegendaryGameDev : public GameDeveloper {
+private:
+    int passionLevel = INT_MAX;
+    string[] currentProjects = {
+        "🎮 Next-Gen Horror Experience",
+        "🌍 Open World Survival Epic", 
+        "⚔️ Medieval Fantasy RPG",
+        "🚀 Sci-Fi Adventure Odyssey"
     };
     
-    [Header("Learning Pipeline")]
-    public string[] skillsInDevelopment = {
-        "Advanced Unity Systems",
-        "Unreal Engine Blueprint Mastery", 
-        "3D Modeling & Animation",
-        "Shader Programming"
-    };
-}
+public:
+    void CreateMasterpiece() {
+        while(dreaming) {
+            code();
+            design();
+            innovate();
+            revolutionize();
+        }
+        launchGameChanger();
+    }
+    
+    string GetLifeMotto() {
+        return "🔥 CODE • CREATE • CONQUER • REPEAT 🔥";
+    }
+};
 ```
 
----
-
-## 🎯 **2024-2025 Roadmap**
-
-- [ ] 🎮 Complete first commercial-quality game prototype
-- [ ] 🏆 Contribute to open-source game development tools
-- [ ] 📚 Master advanced Unity systems & Unreal Engine
-- [ ] 🌐 Build strong developer community presence
-- [ ] 🎨 Develop signature visual style & game mechanics
-- [ ] 🚀 Launch indie game development studio
+</div>
 
 ---
-
-## 💫 **Let's Build Something Amazing**
 
 <div align="center">
 
-**"Games are the most elevated form of interactive art - where technology meets creativity, and players become part of the story."**
+## 📊 **BATTLE STATISTICS** 📊
 
-[![Email](https://img.shields.io/badge/Collaborate-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-discord-id)
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=saiouldrading&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff&icon_color=ff6b6b"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiouldrading&layout=compact&langs_count=8&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saiouldrading&theme=neon-dark&hide_border=true&background=0d1117&stroke=00ff41&ring=ff6b6b&fire=00ff41&currStreakLabel=00ff41" alt="GitHub Streak" />
+
+</div>
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=saiouldrading&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<div align="center">
 
-**⭐ Star my repositories if you find them interesting!**
+## 🎯 **MISSION: WORLD DOMINATION** 🎯
+
+<img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=16&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=⚡+Building+Games+That+Change+Lives;🔥+One+Line+of+Code+at+a+Time;🎮+Creating+Tomorrow's+Entertainment+Today;💀+Mastering+Every+Aspect+of+Game+Dev;🚀+Destination:+AAA+Studios+%26+Beyond!" />
+
+</div>
+
+### 🏆 **THE LEGENDARY ROADMAP** 🏆
+
+- [x] ✨ **PHASE 1**: Master Unity & C# Fundamentals
+- [ ] 🔥 **PHASE 2**: Launch First Commercial Masterpiece  
+- [ ] ⚡ **PHASE 3**: Dominate Unreal Engine Development
+- [ ] 💀 **PHASE 4**: Build Award-Winning Indie Studio
+- [ ] 🚀 **PHASE 5**: Join Elite AAA Development Team
+- [ ] 👑 **PHASE 6**: Become Industry Legend & Mentor
+
+---
+
+<div align="center">
+
+## 🎮 **SPECIALIZED GAME GENRES** 🎮
+
+<table>
+<tr>
+<td align="center">
+<h3>💀 SURVIVAL HORROR</h3>
+<img src="https://img.shields.io/badge/Fear_Factor-100%25-FF0000?style=for-the-badge">
+<br><i>"Making players question every shadow"</i>
+</td>
+<td align="center">
+<h3>🌍 OPEN WORLD</h3>
+<img src="https://img.shields.io/badge/World_Size-INFINITE-00FF00?style=for-the-badge">
+<br><i>"Every corner tells a story"</i>
+</td>
+<td align="center">
+<h3>⚔️ ACTION RPG</h3>
+<img src="https://img.shields.io/badge/Epic_Scale-LEGENDARY-FFD700?style=for-the-badge">
+<br><i>"Heroes are forged in code"</i>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🔥 **DEVELOPER ACHIEVEMENTS UNLOCKED** 🔥
+
+<img src="https://github-profile-trophy.vercel.app/?username=saiouldrading&theme=radical&no-frame=true&column=7&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ **JOIN THE REVOLUTION** ⚡
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=Ready+to+Change+Gaming+Forever%3F;Let's+Build+Something+EPIC!;The+Future+of+Games+Starts+HERE!" />
+
+[![Discord](https://img.shields.io/badge/🎮_GAME_DEV_SQUAD-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-server)
+[![Email](https://img.shields.io/badge/📧_COLLABORATE-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Twitter](https://img.shields.io/badge/🐦_GAME_DEV_UPDATES-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
+
+### 🚀 **"THE BEST GAMES ARE YET TO BE CREATED... AND I'M THE ONE WHO'LL CREATE THEM!"** 🚀
+
+<img src="https://komarev.com/ghpvc/?username=saiouldrading&label=👑+LEGEND+VIEWERS&color=00ff41&style=for-the-badge" />
+
+**⭐ STAR MY REPOSITORIES AND JOIN THE GAMING REVOLUTION! ⭐**
 
 </div>
