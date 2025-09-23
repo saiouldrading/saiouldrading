@@ -1,127 +1,168 @@
-<div align="center">
-  
-# Muhammad Saim
-
-![Game Developer](https://img.shields.io/badge/GAME-DEVELOPER-brightgreen?style=for-the-badge)
-![Unity](https://img.shields.io/badge/Unity-Expert-blue?style=for-the-badge&logo=unity)
-![C#](https://img.shields.io/badge/C%23-Advanced-orange?style=for-the-badge&logo=c-sharp)
-
-### *Crafting immersive digital worlds through code and creativity*
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png">
-
-</div>
-
-## 👨‍💻 Professional Summary
-Dedicated game developer with expertise in Unity and C# development, focused on creating immersive, story-driven experiences. Combining technical skills with creative vision to build games that players don't just play—they experience. Currently balancing game development projects with biotechnology studies, bringing a unique scientific perspective to game mechanics and world-building.
-
-## 🎮 Development Philosophy
-```
-"Games are not just entertainment—they are interactive art forms that can 
-evoke emotions, tell powerful stories, and create lasting memories."
-```
-
-## 🛠️ Technical Expertise
-
-<table>
-  <tr>
-    <th>Category</th>
-    <th>Skills</th>
-    <th>Proficiency</th>
-  </tr>
-  <tr>
-    <td><b>Game Engines</b></td>
-    <td>Unity, Unreal Engine</td>
-    <td>⭐⭐⭐⭐☆ | ⭐⭐⭐☆☆</td>
-  </tr>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>C#, C++, Python</td>
-    <td>⭐⭐⭐⭐☆ | ⭐⭐⭐☆☆ | ⭐⭐⭐☆☆</td>
-  </tr>
-  <tr>
-    <td><b>Game Development</b></td>
-    <td>Game Mechanics, Level Design, Gameplay Programming</td>
-    <td>⭐⭐⭐⭐☆</td>
-  </tr>
-  <tr>
-    <td><b>Visual Tools</b></td>
-    <td>Photoshop, Illustrator, Blender</td>
-    <td>⭐⭐⭐☆☆ | ⭐⭐☆☆☆ | ⭐⭐☆☆☆</td>
-  </tr>
-</table>
-
-## 🚀 Featured Projects
+# 🎮 Muhammad Saim
+### `Game Developer` • `Unity Specialist` • `Interactive Storyteller`
 
 <div align="center">
-  <a href="https://github.com/saiouldrading/Ashes-Of-US-">
-    <img src="https://img.shields.io/badge/Ashes_Of_US-View_Project-2ea44f?style=for-the-badge" alt="Ashes Of US">
-  </a>
-  <a href="https://github.com/saiouldrading/GameDav">
-    <img src="https://img.shields.io/badge/GameDav-View_Project-2ea44f?style=for-the-badge" alt="GameDav">
-  </a>
-</div>
 
-### Current Project: Ashes Of US
-A survival horror experience that challenges players to navigate a post-apocalyptic world filled with both environmental and psychological threats. Inspired by the atmospheric tension of Dying Light and the narrative depth of RDR2.
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Crafting+Immersive+Gaming+Experiences;Building+the+Future+of+Interactive+Media;Turning+Ideas+Into+Playable+Adventures)
 
-- **Engine:** Unity with advanced lighting and particle systems
-- **Features:** Dynamic AI system, realistic survival mechanics, adaptive difficulty
-- **Status:** In active development
-
-## 🌟 Development Journey
-
-```mermaid
-timeline
-  title My Game Development Evolution
-  2022 : Started learning Unity basics
-       : Created first simple 2D prototypes
-  2023 : Mastered C# programming fundamentals
-       : Began Ashes Of US concept development
-       : Expanded into 3D game development
-  2024 : Exploring advanced Unity techniques
-       : Learning Unreal Engine systems
-       : Implementing AI and procedural generation
-  2025 : Launching first complete game project
-       : Building professional portfolio
-       : Connecting with industry professionals
-```
-
-## 🧠 Game Design Influences
-- **Narrative Design:** Uncharted series, Red Dead Redemption 2
-- **Game Mechanics:** Dying Light, Skyrim
-- **Visual Style:** Atmospheric horror with realistic elements
-- **Player Experience:** Immersive, emotionally engaging gameplay with meaningful choices
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saiouldrading&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=saiouldrading&theme=tokyonight"/>
-</div>
-
-## 🔍 Currently Learning
-- Advanced character animation systems
-- Procedural world generation
-- Shader programming for realistic visual effects
-- AI behavior trees for dynamic enemy encounters
-- Performance optimization for complex game worlds
-
-## 🌐 Connect & Collaborate
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Saim-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muhammad-saim-a26349358/)
-[![Instagram](https://img.shields.io/badge/Instagram-saimk.k18-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/saimk.k18/)
-[![Portfolio](https://img.shields.io/badge/Game_Portfolio-View_Projects-2ea44f?style=for-the-badge)](https://github.com/saiouldrading)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saim-a26349358/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/saimk.k18/)
 
 </div>
-
-## ✨ Personal Philosophy
-> "I don't just create games—I craft experiences that stay with players long after they've put down the controller. Every line of code, every texture, every sound effect is an opportunity to touch someone's life through interactive storytelling."
 
 ---
 
+## 🎯 **Vision Statement**
+> *"Creating games that don't just entertain, but leave lasting emotional impact. Every line of code, every design choice, every mechanic serves the greater purpose of immersive storytelling."*
+
+---
+
+## 🛡️ **Core Specializations**
+
+```yaml
+Primary Focus:
+  - 🎮 Game Development & Architecture
+  - 🎭 Interactive Narrative Design  
+  - ⚡ Performance Optimization
+  - 🎨 Gameplay Mechanics Engineering
+
+Signature Style:
+  - Story-Driven Experiences
+  - Realistic Physics Systems
+  - Atmospheric Horror Elements
+  - Dynamic Survival Mechanics
+```
+
+---
+
+## 🔥 **Technical Arsenal**
+
 <div align="center">
-  <i>Let's build amazing virtual worlds together!</i>
+
+### **Game Engines & Frameworks**
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+### **Programming Languages**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+### **Creative Tools**
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+### **Development Ecosystem**
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 🎮 **Game Development Philosophy**
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎭 **Narrative Excellence**
+- Every mechanic tells a story
+- Player agency drives emotional connection
+- Environmental storytelling mastery
+- Character development through gameplay
+
+</td>
+<td width="50%">
+
+### ⚡ **Technical Innovation**
+- Clean, maintainable code architecture
+- Performance-first optimization
+- Scalable system design
+- Cross-platform compatibility focus
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 **Inspiration & Influences**
+
+<div align="center">
+
+| **Survival Horror** | **Open World** | **Action Adventure** | **Sports Simulation** |
+|:---:|:---:|:---:|:---:|
+| 🧟 Dying Light | 🤠 Red Dead Redemption 2 | 🗺️ Uncharted Series | ⚽ FIFA Franchise |
+| *Dynamic Day/Night* | *Living World Systems* | *Cinematic Storytelling* | *Realistic Physics* |
+
+</div>
+
+---
+
+## 📈 **GitHub Analytics**
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saiouldrading&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiouldrading&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+---
+
+## 🚀 **Current Development Focus**
+
+```cs
+public class GameDeveloper : MonoBehaviour 
+{
+    [Header("Current Projects")]
+    public string[] activeDevelopment = {
+        "🎮 Survival Horror Prototype",
+        "🏗️ Game Architecture Patterns",
+        "🎨 Procedural World Generation",
+        "⚡ Performance Optimization Studies"
+    };
+    
+    [Header("Learning Pipeline")]
+    public string[] skillsInDevelopment = {
+        "Advanced Unity Systems",
+        "Unreal Engine Blueprint Mastery", 
+        "3D Modeling & Animation",
+        "Shader Programming"
+    };
+}
+```
+
+---
+
+## 🎯 **2024-2025 Roadmap**
+
+- [ ] 🎮 Complete first commercial-quality game prototype
+- [ ] 🏆 Contribute to open-source game development tools
+- [ ] 📚 Master advanced Unity systems & Unreal Engine
+- [ ] 🌐 Build strong developer community presence
+- [ ] 🎨 Develop signature visual style & game mechanics
+- [ ] 🚀 Launch indie game development studio
+
+---
+
+## 💫 **Let's Build Something Amazing**
+
+<div align="center">
+
+**"Games are the most elevated form of interactive art - where technology meets creativity, and players become part of the story."**
+
+[![Email](https://img.shields.io/badge/Collaborate-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/your-discord-id)
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=saiouldrading&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+
+**⭐ Star my repositories if you find them interesting!**
+
 </div>
