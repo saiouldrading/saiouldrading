@@ -64,51 +64,136 @@ class GameDeveloper {
 
 
 ---
-## 🚧 **CURRENT PROJECT: ASHES OF US**
+## 🌟 **CURRENT MASTERPIECE IN DEVELOPMENT**
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🎮_ASHES_OF_US-FF4444?style=for-the-badge&logo=unity&logoColor=white"/>
-<br>
-**2D Story-Driven Post-Apocalyptic Zombie Survival Game**
+```ascii
+╔══════════════════════════════════════════════════════════╗
+║    🧟‍♂️ A S H E S   O F   U S 🧟‍♀️                        ║
+║                                                          ║
+║  "When humanity falls, two souls must rise..."          ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-| 🎯 **FEATURE** | 🏆 **STATUS** | 📈 **PROGRESS** |
-|:---|:---:|:---:|
-| 🧟 **Realistic Combat System** | In Development | 70% |
-| 📖 **Character Development** | Active | 85% |
-| 🌍 **World Building** | Design Phase | 60% |
-| 🎬 **Cinematic Storytelling** | Scripting | 50% |
+<img src="https://img.shields.io/badge/🎮_GENRE-Post%20Apocalyptic%20Survival-darkred?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/🎨_STYLE-2D%20Story%20Driven-orange?style=for-the-badge&labelColor=000000"/>
+<img src="https://img.shields.io/badge/⚡_ENGINE-Unity%202D-blue?style=for-the-badge&labelColor=000000"/>
 
 </div>
 
-### 🎭 **MAIN CHARACTERS**
+---
+
+### 🎭 **THE SURVIVORS**
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%" align="center">
-<img src="https://img.shields.io/badge/⚔️_RIVEN-8B0000?style=for-the-badge&logo=target&logoColor=white"/>
-<br><sub><b>Silent Ex-Military | Guilt-Driven Survivor</b></sub>
+<td width="50%">
+
+```typescript
+interface Character {
+  name: "RIVEN";
+  archetype: "The Haunted Guardian";
+  background: "Ex-Military Officer";
+  traits: ["Silent", "Tactical", "Guilt-Ridden"];
+  specialty: "Combat & Survival";
+  
+  backstory() {
+    return "Shadows of past failures drive him forward";
+  }
+}
+```
+
 </td>
-<td width="50%" align="center">
-<img src="https://img.shields.io/badge/🌟_THEO-FFD700?style=for-the-badge&logo=heart&logoColor=black"/>
-<br><sub><b>Hopeful Dreamer | The Heart of Hope</b></sub>
+<td width="50%">
+
+```typescript
+interface Character {
+  name: "THEO";
+  archetype: "The Light Bearer";
+  background: "Innocent Dreamer";
+  traits: ["Hopeful", "Vulnerable", "Inspiring"];
+  specialty: "Emotional Anchor";
+  
+  backstory() {
+    return "In darkness, he still dreams of dawn";
+  }
+}
+```
+
 </td>
 </tr>
 </table>
 
 </div>
 
-### 📋 **DEVELOPMENT ROADMAP**
-- 🎯 **30-minute playable demo** targeting completion in **6 months**
-- 👥 **2-person indie team** handling all development aspects
-- 🎨 **Complete in-house production** - programming, design, characters & assets
-- 🎮 **Focus on tactical combat, emotional storytelling & atmospheric immersion**
+---
+
+### 🎯 **DEVELOPMENT BATTLE STATION**
+
+<div align="center">
+
+```mermaid
+flowchart TD
+    A[🎮 GAME CONCEPT] --> B[🎨 2-PERSON INDIE TEAM]
+    B --> C[⚔️ TACTICAL COMBAT]
+    B --> D[📖 EMOTIONAL NARRATIVE]
+    B --> E[🌍 ATMOSPHERIC WORLD]
+    C --> F[🚀 30-MIN DEMO]
+    D --> F
+    E --> F
+    F --> G[🏆 6 MONTH TARGET]
+    
+    style A fill:#ff4444
+    style F fill:#00ff00
+    style G fill:#ffaa00
+```
+
+</div>
+
+### ⚡ **CURRENT DEV STATUS**
+
+<div align="center">
+
+| 🎯 **SYSTEM** | 🔥 **VIBE CHECK** | 📊 **COMPLETION** |
+|:---|:---:|:---:|
+| 🧟 **Gore Combat System** | `CODING INTENSELY` | ![70%](https://progress-bar.dev/70/?color=ff4444) |
+| 🎭 **Character Souls** | `BREATHING LIFE` | ![85%](https://progress-bar.dev/85/?color=00ff00) |
+| 🌆 **Post-Apocalyptic World** | `WORLD BUILDING` | ![60%](https://progress-bar.dev/60/?color=ffaa00) |
+| 🎬 **Cinematic Moments** | `SCRIPTING MAGIC` | ![50%](https://progress-bar.dev/50/?color=00aaff) |
+
+</div>
+
+---
+
+### 🔥 **THE INDIE GRIND**
+
+<div align="center">
+
+> ### 💀 *"Two developers. One vision. Zero budget. Infinite passion."* 🔥
+> 
+> **🎮 Complete In-House Production** • **⚔️ Tactical Combat Focus** • **💔 Emotional Storytelling**
+> 
+> **🎯 MISSION**: Deliver a gut-wrenching 30-minute experience that'll make players question everything
+
+</div>
 
 ---
 
 ## 🎮 **GAMING INSPIRATION SESSIONS**
+
+<div align="center">
+
+| 🎯 **NOW PLAYING** | 🏆 **STATUS** | 📈 **RESEARCH PURPOSE** |
+|:---|:---:|:---:|
+| 🧟 **Dying Light The Beast** | Active Session | Combat Mechanics Study |
+| 🤠 **Red Dead Redemption 2** | Story Mode | Character Development Research |
+| ⚽ **FIFA 23** | Online Seasons | Quick Gaming Breaks |
+| 🗺️ **Uncharted 4** | Treasure Hunt | Narrative Structure Analysis |
+
+</div>
 
 <div align="center">
 
