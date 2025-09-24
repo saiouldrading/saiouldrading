@@ -234,40 +234,6 @@ flowchart TD
 
 ---
 
-## 🎯 **LEARNING ROADMAP 2024**
-
-<div align="center">
-
-```mermaid
-graph TD
-    A[🎮 Current Skills] --> B[🔥 Unreal Engine 5]
-    A --> C[⚡ Advanced Shaders]
-    A --> D[🌐 Multiplayer Systems]
-    B --> E[🚀 Next Level Projects]
-    C --> E
-    D --> E
-```
-
-<table>
-<tr>
-<td width="33%" align="center">
-<img src="https://img.shields.io/badge/🎯_UNREAL_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
-<br>**Meta-Human Integration**
-</td>
-<td width="33%" align="center">
-<img src="https://img.shields.io/badge/⚡_SHADERS-FF6B35?style=for-the-badge&logo=opengl&logoColor=white"/>
-<br>**Visual Effects Mastery**
-</td>
-<td width="33%" align="center">
-<img src="https://img.shields.io/badge/🌐_NETWORKING-00D9FF?style=for-the-badge&logo=unity&logoColor=white"/>
-<br>**Multiplayer Architecture**
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 ## 🤝 **CONNECT & COLLABORATE**
 
