@@ -116,7 +116,7 @@ class GameDeveloper {
 |:---|:---:|
 | 🧟 **Dying Light The Beast** | Active Session | Combat Mechanics Study |
 | 🤠 **Red Dead Redemption 2** | Story Mode | Character Development Research |
-| ⚽ **FIFA 23** | Online Seasons | Quick Gaming Breaks |
+| ⚽ **FIFA 19** | Playing Manager Mode | Quick Gaming Breaks |
 | 🗺️ **Uncharted 4** | Treasure Hunt | Narrative Structure Analysis |
 
 </div>
