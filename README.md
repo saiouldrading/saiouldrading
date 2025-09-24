@@ -113,7 +113,7 @@ class GameDeveloper {
 <div align="center">
 
 | 🎯 **NOW PLAYING** | 🏆 **STATUS** |
-|:---|:---:|:---:|
+|:---|:---:|
 | 🧟 **Dying Light The Beast** | Active Session | Combat Mechanics Study |
 | 🤠 **Red Dead Redemption 2** | Story Mode | Character Development Research |
 | ⚽ **FIFA 23** | Online Seasons | Quick Gaming Breaks |
