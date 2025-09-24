@@ -104,21 +104,6 @@ class GameDeveloper {
 
 ---
 
-## 🚀 **ACTIVE PROJECTS STATUS**
-
-<div align="center">
-
-| 🎮 **PROJECT** | 📊 **STATUS** | 🎯 **TYPE** | 🔥 **PRIORITY** |
-|:---|:---:|:---:|:---:|
-| **🌙 Project Nightfall** | ![80%](https://progress-bar.dev/80?color=00ff88&width=120) | Survival Horror | 🔴 **HIGH** |
-| **🥽 VR Prototype Alpha** | ![65%](https://progress-bar.dev/65?color=ffaa00&width=120) | Virtual Reality | 🟡 **MED** |
-| **⚙️ Game Dev Pipeline** | ![100%](https://progress-bar.dev/100?color=00aaff&width=120) | Tools & Workflow | 🟢 **DONE** |
-| **🌐 Multiplayer Framework** | ![35%](https://progress-bar.dev/35?color=ff6b35&width=120) | Networking | 🟡 **MED** |
-
-</div>
-
----
-
 ## 💭 **DEVELOPER PHILOSOPHY**
 
 <div align="center">
