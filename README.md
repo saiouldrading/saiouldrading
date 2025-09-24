@@ -90,6 +90,62 @@ class GameDeveloper {
 </div>
 
 ---
+## 🚧 **CURRENT PROJECT: ASHES OF US**
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🎮_ASHES_OF_US-FF4444?style=for-the-badge&logo=unity&logoColor=white"/>
+<br>
+**2D Story-Driven Post-Apocalyptic Zombie Survival Game**
+
+| 🎯 **FEATURE** | 🏆 **STATUS** | 📈 **PROGRESS** |
+|:---|:---:|:---:|
+| 🧟 **Realistic Combat System** | In Development | 70% |
+| 📖 **Character Development** | Active | 85% |
+| 🌍 **World Building** | Design Phase | 60% |
+| 🎬 **Cinematic Storytelling** | Scripting | 50% |
+
+</div>
+
+### 🎭 **MAIN CHARACTERS**
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://img.shields.io/badge/⚔️_RIVEN-8B0000?style=for-the-badge&logo=target&logoColor=white"/>
+<br><sub><b>Silent Ex-Military | Guilt-Driven Survivor</b></sub>
+</td>
+<td width="50%" align="center">
+<img src="https://img.shields.io/badge/🌟_THEO-FFD700?style=for-the-badge&logo=heart&logoColor=black"/>
+<br><sub><b>Hopeful Dreamer | The Heart of Hope</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+### 📋 **DEVELOPMENT ROADMAP**
+- 🎯 **30-minute playable demo** targeting completion in **6 months**
+- 👥 **2-person indie team** handling all development aspects
+- 🎨 **Complete in-house production** - programming, design, characters & assets
+- 🎮 **Focus on tactical combat, emotional storytelling & atmospheric immersion**
+
+---
+
+## 🎮 **GAMING INSPIRATION SESSIONS**
+
+<div align="center">
+
+| 🎯 **NOW PLAYING** | 🏆 **STATUS** | 📈 **RESEARCH PURPOSE** |
+|:---|:---:|:---:|
+| 🧟 **Dying Light The Beast** | Active Session | Combat Mechanics Study |
+| 🤠 **Red Dead Redemption 2** | Story Mode | Character Development Research |
+| ⚽ **FIFA 23** | Online Seasons | Quick Gaming Breaks |
+| 🗺️ **Uncharted 4** | Treasure Hunt | Narrative Structure Analysis |
+
+</div>
 
 ## 📊 **DEVELOPER ANALYTICS**
 
