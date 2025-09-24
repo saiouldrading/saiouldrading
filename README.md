@@ -183,6 +183,7 @@ flowchart TD
 
 
 <div align="center">
+## Now Playing
 
 | 🎯 **NOW PLAYING** | 🏆 **STATUS** |
 |:---|:---:|
