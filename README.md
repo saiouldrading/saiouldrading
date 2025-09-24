@@ -62,32 +62,6 @@ class GameDeveloper {
 
 ---
 
-## 🏆 **INSPIRATION HALL OF FAME**
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🧟_DYING_LIGHT-FF4444?style=for-the-badge&logo=steam&logoColor=white"/>
-<br><sub><b>Parkour Horror</b></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🤠_RED_DEAD_2-8B4513?style=for-the-badge&logo=rockstargames&logoColor=white"/>
-<br><sub><b>Open World Excellence</b></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🗺️_UNCHARTED-FFD700?style=for-the-badge&logo=playstation&logoColor=black"/>
-<br><sub><b>Adventure Mastery</b></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🌟_CYBERPUNK-FFFF00?style=for-the-badge&logo=cdprojekt&logoColor=black"/>
-<br><sub><b>Future Vision</b></sub>
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 ## 🚧 **CURRENT PROJECT: ASHES OF US**
