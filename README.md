@@ -197,19 +197,7 @@ flowchart TD
 
 ---
 
-### 🔥 **THE INDIE GRIND**
 
-<div align="center">
-
-> ### 💀 *"Two developers. One vision. Zero budget. Infinite passion."* 🔥
-> 
-> **🎮 Complete In-House Production** • **⚔️ Tactical Combat Focus** • **💔 Emotional Storytelling**
-> 
-> **🎯 MISSION**: Deliver a gut-wrenching 30-minute experience that'll make players question everything
-
-</div>
-
----
 
 </div>
 
