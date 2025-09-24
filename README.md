@@ -1,118 +1,255 @@
-# 🎮 Sai Ouldrading
-**`Game Developer | Unity Specialist | Digital World Architect`**
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> **SAI OULDRADING**
 
 <div align="center">
 
-![Game Dev Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=120&section=header&text=CODE%20MEETS%20CREATIVITY&fontSize=30&fontColor=fff&animation=fadeIn)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=80&lines=GAME+DEVELOPER;UNITY+WIZARD;DIGITAL+ARCHITECT;SURVIVAL+HORROR+EXPERT)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2000&pause=500&color=00FFD9&center=true&vCenter=true&width=450&lines=Crafting+Immersive+Worlds;Survival+Horror+Expert;Unity+%26+C%23+Pro" />
-
----
-
-## 🛠️ **Tech Arsenal**
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=unity,cs,cpp,python,blender,photoshop,vscode,git&theme=dark" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,21&height=150&section=header&text=CODE%20%2B%20CREATIVITY&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Building%20Tomorrow's%20Gaming%20Experience&descAlignY=60&descSize=15" width="100%"/>
 
 </div>
 
-| **Expertise** | **Level** |
-|---------------|-----------|
-| 🎮 Unity Engine | ██████████ 95% |
-| 💻 C# Programming | █████████░ 90% |
-| 🎨 Blender 3D | ████████░░ 85% |
-| 🐍 Python Scripting | ██████░░░░ 70% |
+---
+
+## 🌟 **ABOUT THE ARCHITECT**
+
+<div align="center">
+<table>
+<tr>
+<td width="50%">
+
+```typescript
+class GameDeveloper {
+  name: "Sai Ouldrading";
+  role: "Unity Specialist";
+  location: "Digital Realm 🌐";
+  
+  languages: ["C#", "C++", "Python", "JS"];
+  tools: ["Unity", "Blender", "VS Code"];
+  
+  currentFocus() {
+    return "Survival Horror Masterpiece";
+  }
+  
+  lifePhilosophy() {
+    return "Turn imagination into reality";
+  }
+}
+```
+
+</td>
+<td width="50%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250px" alt="Coding"/>
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-## 🎯 **Game Dev Focus**
+## ⚡ **POWER STACK**
+
+<div align="center">
+
+### 🎮 **Game Development Arsenal**
+<img src="https://skillicons.dev/icons?i=unity,cs,cpp,python,blender,photoshop,vscode,git,github,figma&theme=dark&perline=5" />
+
+<br>
+
+| **🚀 EXPERTISE** | **⭐ MASTERY LEVEL** | **🎯 USAGE** |
+|:---:|:---:|:---:|
+| <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/> | `████████████████████` **95%** | **Primary Engine** |
+| <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> | `██████████████████░░` **90%** | **Core Language** |
+| <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/> | `█████████████████░░░` **85%** | **3D Modeling** |
+| <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> | `██████████████░░░░░░` **70%** | **Automation** |
+
+</div>
+
+---
+
+## 🎯 **SPECIALIZATION MATRIX**
+
+<div align="center">
 
 ```
-🧟 SURVIVAL HORROR    ████████████████░░  90%
-🌍 OPEN WORLD RPG     ██████████████░░░░  80%
-⚔️ ACTION SYSTEMS     ████████████░░░░░░  75%
+🧟‍♂️ SURVIVAL HORROR    ████████████████████░  95% ⭐⭐⭐⭐⭐
+🌍 OPEN WORLD SYSTEMS   ████████████████░░░░░  80% ⭐⭐⭐⭐☆
+⚔️ COMBAT MECHANICS     ██████████████████░░░  90% ⭐⭐⭐⭐⭐
+🎨 VISUAL EFFECTS       ███████████████░░░░░░  75% ⭐⭐⭐⭐☆
+🔧 OPTIMIZATION         ████████████████████░  95% ⭐⭐⭐⭐⭐
 ```
 
-### 🏆 **Inspirations**
-<p align="center">
-<img src="https://img.shields.io/badge/🧟_DYING_LIGHT-FF6B35?style=flat-square"/>
-<img src="https://img.shields.io/badge/🤠_RDR2-8B4513?style=flat-square"/>
-<img src="https://img.shields.io/badge/🗺️_UNCHARTED-FFD700?style=flat-square"/>
-</p>
+</div>
 
 ---
 
-## 📊 **GitHub Pulse**
+## 🏆 **INSPIRATION HALL OF FAME**
 
-<p align="center">
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=saiouldrading&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=saiouldrading&theme=tokyonight&hide_border=true"/>
-</p>
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🧟_DYING_LIGHT-FF4444?style=for-the-badge&logo=steam&logoColor=white"/>
+<br><sub><b>Parkour Horror</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🤠_RED_DEAD_2-8B4513?style=for-the-badge&logo=rockstargames&logoColor=white"/>
+<br><sub><b>Open World Excellence</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🗺️_UNCHARTED-FFD700?style=for-the-badge&logo=playstation&logoColor=black"/>
+<br><sub><b>Adventure Mastery</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🌟_CYBERPUNK-FFFF00?style=for-the-badge&logo=cdprojekt&logoColor=black"/>
+<br><sub><b>Future Vision</b></sub>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🚀 **Active Projects**
+## 📊 **DEVELOPER ANALYTICS**
 
-| Project | Status | Type |
-|---------|--------|------|
-| **Project Nightfall** | 🟢 80% Complete | Survival Horror |
-| **VR Prototype** | 🟡 50% Complete | Immersive Tech |
-| **Dev Pipeline** | 🔵 100% Complete | Studio Setup |
+<div align="center">
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saiouldrading&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=saiouldrading&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF"/>
 
-## 💡 **Dev Philosophy**
-> *"Code with passion, test with precision, launch with confidence."*
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiouldrading&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+
+</div>
 
 ---
 
-## 🤝 **Let's Connect**
+## 🚀 **ACTIVE PROJECTS STATUS**
 
-<p align="center">
+<div align="center">
+
+| 🎮 **PROJECT** | 📊 **STATUS** | 🎯 **TYPE** | 🔥 **PRIORITY** |
+|:---|:---:|:---:|:---:|
+| **🌙 Project Nightfall** | ![80%](https://progress-bar.dev/80?color=00ff88&width=120) | Survival Horror | 🔴 **HIGH** |
+| **🥽 VR Prototype Alpha** | ![65%](https://progress-bar.dev/65?color=ffaa00&width=120) | Virtual Reality | 🟡 **MED** |
+| **⚙️ Game Dev Pipeline** | ![100%](https://progress-bar.dev/100?color=00aaff&width=120) | Tools & Workflow | 🟢 **DONE** |
+| **🌐 Multiplayer Framework** | ![35%](https://progress-bar.dev/35?color=ff6b35&width=120) | Networking | 🟡 **MED** |
+
+</div>
+
+---
+
+## 💭 **DEVELOPER PHILOSOPHY**
+
+<div align="center">
+
+> ### *"Code is poetry written in logic"* 🎭
+> ### *"Every bug is a puzzle waiting to be solved"* 🧩
+> ### *"Dream in code, build in reality"* 💫
+
+</div>
+
+---
+
+## 🎮 **CURRENT GAMING SESSION**
+
+<div align="center">
+
+| 🎯 **NOW PLAYING** | 🏆 **STATUS** | 📈 **PROGRESS** |
+|:---|:---:|:---:|
+| 🧟 **Dying Light 2** | Active Session | `████████████░░` **85%** |
+| 🤠 **Red Dead Redemption 2** | Story Mode | `██████████░░░░` **70%** |
+| ⚽ **FIFA 23** | Online Seasons | `████████████████████` **Max** |
+| 🗺️ **Uncharted 4** | Treasure Hunt | `███████████████░░░` **90%** |
+
+</div>
+
+---
+
+## 🎯 **LEARNING ROADMAP 2024**
+
+<div align="center">
+
+```mermaid
+graph TD
+    A[🎮 Current Skills] --> B[🔥 Unreal Engine 5]
+    A --> C[⚡ Advanced Shaders]
+    A --> D[🌐 Multiplayer Systems]
+    B --> E[🚀 Next Level Projects]
+    C --> E
+    D --> E
+```
+
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/🎯_UNREAL_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
+<br>**Meta-Human Integration**
+</td>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/⚡_SHADERS-FF6B35?style=for-the-badge&logo=opengl&logoColor=white"/>
+<br>**Visual Effects Mastery**
+</td>
+<td width="33%" align="center">
+<img src="https://img.shields.io/badge/🌐_NETWORKING-00D9FF?style=for-the-badge&logo=unity&logoColor=white"/>
+<br>**Multiplayer Architecture**
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🤝 **CONNECT & COLLABORATE**
+
+<div align="center">
+
 <a href="https://www.linkedin.com/in/muhammad-saim-a26349358/">
-<img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
 </a>
 <a href="https://www.instagram.com/saimk.k18/">
-<img src="https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000"/>
 </a>
-</p>
+<a href="mailto:saiouldrading@gmail.com">
+<img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
+</a>
 
-**Open for:** Game Jams • Technical Collaborations • Creative Projects
-
----
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=80&section=footer&text=BUILDING+THE+NEXT+LEVEL&fontSize=20&fontColor=fff)
-
-### 🎯 **"Turning ideas into interactive experiences!"**
+### 🌟 **Open For:**
+`🎮 Game Jams` • `💡 Creative Projects` • `🤝 Technical Collaborations` • `🚀 Startup Ideas`
 
 </div>
 
 ---
 
-## 🎮 **Currently Playing**
-- 🧟 Dying Light 2
-- 🤠 Red Dead Redemption 2  
-- ⚽ FIFA 23
-- 🗺️ Uncharted Series
+## 🎨 **SIGNATURE QUOTE**
 
-## 📚 **Learning Next**
-- 🎯 Unreal Engine 5
-- ⚡ Advanced Shader Programming
-- 🌐 Multiplayer Networking
+<div align="center">
 
----
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Every%20line%20of%20code%20is%20a%20step%20toward%20creating%20worlds%20that%20never%20existed%20before&author=Sai%20Ouldrading" />
 
-*"Every bug fixed is a step closer to perfection."* 🐛➡️✨
+</div>
 
 ---
 
 <div align="center">
 
-**⭐ From one developer to another - keep creating amazing worlds!**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,21&height=120&section=footer&text=KEEP%20CREATING&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=70" width="100%"/>
+
+### 🎯 **"Building tomorrow's gaming experiences, one line of code at a time!"**
+
+<img src="https://komarev.com/ghpvc/?username=saiouldrading&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS"/>
 
 </div>
 
-**Note:** Agar abhi bhi koi image error aa raha hai, toh main simple text-based version bhi bana sakta hoon!
+---
+
+<div align="center">
+
+**⭐ From one developer to another - keep pushing the boundaries! ⭐**
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+build+something+amazing!;Game+on!+🎮" />
+
+</div>
