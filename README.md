@@ -137,10 +137,10 @@ class GameDeveloper {
 
 | 🎯 **NOW PLAYING** | 🏆 **STATUS** | 📈 **PROGRESS** |
 |:---|:---:|:---:|
-| 🧟 **Dying Light 2** | Active Session | `████████████░░` **85%** |
-| 🤠 **Red Dead Redemption 2** | Story Mode | `██████████░░░░` **70%** |
-| ⚽ **FIFA 23** | Online Seasons | `████████████████████` **Max** |
-| 🗺️ **Uncharted 4** | Treasure Hunt | `███████████████░░░` **90%** |
+| 🧟 **Dying Light The Beast** | Active Session | 
+| 🤠 **Red Dead Redemption 2** | Story Mode |
+| ⚽ **FIFA 23** | Online Seasons | 
+| 🗺️ **Uncharted 4** | Treasure Hunt | 
 
 </div>
 
