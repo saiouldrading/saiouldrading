@@ -178,22 +178,9 @@ flowchart TD
 > 
 > **🎯 MISSION**: Deliver a gut-wrenching 30-minute experience that'll make players question everything
 
-</div>
 
----
 
-## 🎮 **GAMING INSPIRATION SESSIONS**
 
-<div align="center">
-
-| 🎯 **NOW PLAYING** | 🏆 **STATUS** | 📈 **RESEARCH PURPOSE** |
-|:---|:---:|:---:|
-| 🧟 **Dying Light The Beast** | Active Session | Combat Mechanics Study |
-| 🤠 **Red Dead Redemption 2** | Story Mode | Character Development Research |
-| ⚽ **FIFA 23** | Online Seasons | Quick Gaming Breaks |
-| 🗺️ **Uncharted 4** | Treasure Hunt | Narrative Structure Analysis |
-
-</div>
 
 <div align="center">
 
