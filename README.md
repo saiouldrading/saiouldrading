@@ -112,7 +112,7 @@ class GameDeveloper {
 
 <div align="center">
 
-| 🎯 **NOW PLAYING** | 🏆 **STATUS** | 📈 **RESEARCH PURPOSE** |
+| 🎯 **NOW PLAYING** | 🏆 **STATUS** |
 |:---|:---:|:---:|
 | 🧟 **Dying Light The Beast** | Active Session | Combat Mechanics Study |
 | 🤠 **Red Dead Redemption 2** | Story Mode | Character Development Research |
