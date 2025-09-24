@@ -3,9 +3,9 @@
 
 <div align="center">
 
-![Game Dev Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&text=CODE%20MEETS%20CREATIVITY&fontSize=30&fontColor=fff&animation=fadeIn)
+![Game Dev Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=120&section=header&text=CODE%20MEETS%20CREATIVITY&fontSize=30&fontColor=fff&animation=fadeIn)
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=2000&pause=500&color=00FFD9&center=true&vCenter=true&width=450&lines=🔥+Crafting+Immersive+Worlds;💀+Survival+Horror+Expert;⚡+Unity+%26+C%23+Pro" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&duration=2000&pause=500&color=00FFD9&center=true&vCenter=true&width=450&lines=Crafting+Immersive+Worlds;Survival+Horror+Expert;Unity+%26+C%23+Pro" />
 
 ---
 
@@ -84,7 +84,7 @@
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&text=BUILDING+THE+NEXT+LEVEL&fontSize=20&fontColor=fff)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:333333&height=80&section=footer&text=BUILDING+THE+NEXT+LEVEL&fontSize=20&fontColor=fff)
 
 ### 🎯 **"Turning ideas into interactive experiences!"**
 
@@ -114,3 +114,5 @@
 **⭐ From one developer to another - keep creating amazing worlds!**
 
 </div>
+
+**Note:** Agar abhi bhi koi image error aa raha hai, toh main simple text-based version bhi bana sakta hoon!
