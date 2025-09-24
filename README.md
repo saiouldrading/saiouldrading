@@ -57,12 +57,6 @@ class GameDeveloper {
 
 <br>
 
-| **🚀 EXPERTISE** | **⭐ MASTERY LEVEL** | **🎯 USAGE** |
-|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/> | `████████████████████` **95%** | **Primary Engine** |
-| <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> | `██████████████████░░` **90%** | **Core Language** |
-| <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/> | `█████████████████░░░` **85%** | **3D Modeling** |
-| <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/> | `██████████████░░░░░░` **70%** | **Automation** |
 
 </div>
 
