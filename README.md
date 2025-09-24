@@ -176,7 +176,7 @@ graph TD
 <a href="https://www.instagram.com/saimk.k18/">
 <img src="https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000"/>
 </a>
-<a href="mailto:saiouldrading@gmail.com">
+<a href="mailto:Ouldrading@gmail.com">
 <img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
 </a>
 
