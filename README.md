@@ -57,13 +57,10 @@ class GameDeveloper {
 
 <br>
 
-
 </div>
 
 ---
 
-
----
 ## 🌟 **CURRENT MASTERPIECE IN DEVELOPMENT**
 
 <div align="center">
@@ -108,8 +105,6 @@ class GameDeveloper {
 </table>
 
 </div>
-
-
 
 ---
 
@@ -197,25 +192,6 @@ flowchart TD
 
 ---
 
-
-
-</div>
-
-### ⚡ **CURRENT DEV STATUS**
-
-<div align="center">
-
-| 🎯 **SYSTEM** | 🔥 **VIBE CHECK** | 📊 **COMPLETION** |
-|:---|:---:|:---:|
-| 🧟 **Gore Combat System** | `CODING INTENSELY` | ![70%](https://progress-bar.dev/70/?color=ff4444) |
-| 🎭 **Character Souls** | `BREATHING LIFE` | ![85%](https://progress-bar.dev/85/?color=00ff00) |
-| 🌆 **Post-Apocalyptic World** | `WORLD BUILDING` | ![60%](https://progress-bar.dev/60/?color=ffaa00) |
-| 🎬 **Cinematic Moments** | `SCRIPTING MAGIC` | ![50%](https://progress-bar.dev/50/?color=00aaff) |
-
-</div>
-
----
-
 ### 🔥 **THE INDIE GRIND**
 
 <div align="center">
@@ -226,21 +202,24 @@ flowchart TD
 > 
 > **🎯 MISSION**: Deliver a gut-wrenching 30-minute experience that'll make players question everything
 
+</div>
 
+---
 
-
-
-<div align="center">
 ## Now Playing
 
-| 🎯 **NOW PLAYING** | 🏆 **STATUS** |
-|:---|:---:|
+<div align="center">
+
+| 🎯 **NOW PLAYING** | 🏆 **STATUS** | 📈 **RESEARCH PURPOSE** |
+|:---|:---:|:---:|
 | 🧟 **Dying Light The Beast** | Active Session | Combat Mechanics Study |
 | 🤠 **Red Dead Redemption 2** | Story Mode | Character Development Research |
 | ⚽ **FIFA 19** | Playing Manager Mode | Quick Gaming Breaks |
 | 🗺️ **Uncharted 4** | Treasure Hunt | Narrative Structure Analysis |
 
 </div>
+
+---
 
 ## 📊 **DEVELOPER ANALYTICS**
 
@@ -266,22 +245,6 @@ flowchart TD
 </div>
 
 ---
-
-## 🎮 **CURRENT GAMING SESSION**
-
-<div align="center">
-
-| 🎯 **NOW PLAYING** | 🏆 **STATUS** | 📈 **PROGRESS** |
-|:---|:---:|:---:|
-| 🧟 **Dying Light The Beast** | Active Session | 
-| 🤠 **Red Dead Redemption 2** | Story Mode |
-| ⚽ **FIFA 23** | Online Seasons | 
-| 🗺️ **Uncharted 4** | Treasure Hunt | 
-
-</div>
-
----
-
 
 ## 🤝 **CONNECT & COLLABORATE**
 
@@ -329,7 +292,5 @@ flowchart TD
 <div align="center">
 
 **⭐ From one developer to another - keep pushing the boundaries! ⭐**
-
-
 
 </div>
