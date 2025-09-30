@@ -3,7 +3,7 @@
 ![Uploading a-bearded-rude-and-lying-man-with-glasses__274c26c9 (1).png…]()
 
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> **SAI OULDRADING**!
+# <img src="a-bearded-rude-and-lying-man-with-glasses__274c26c9 (1).png" width="30px"/> **SAI OULDRADING**!
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=80&lines=GAME+DEVELOPER;UNITY+WIZARD;DIGITAL+ARCHITECT;SURVIVAL+HORROR+EXPERT)
 
