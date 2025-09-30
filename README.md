@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://github.com/saiouldrading/saiouldrading/blob/main/profile-avatar.png?raw=true" width="200px" alt="Sai Ouldrading Avatar"/>
+![Uploading a-bearded-rude-and-lying-man-with-glasses__274c26c9 (1).png…]()
+
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> **SAI OULDRADING**!
 
