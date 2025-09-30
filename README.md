@@ -1,5 +1,4 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> **SAI OULDRADING**!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" style="max-width: 20%; display: inline-block;" data-target="animated-image.originalImage">
-
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> **SAI OULDRADING**!
 
 <div align="center">
 
