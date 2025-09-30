@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/saiouldrading/saiouldrading/blob/main/profile-avatar.png?raw=true" width="150px" alt="Sai Ouldrading" style="border-radius: 50%; border: 4px solid #00D9FF;"/>
 
 # 👋 **SAI OULDRADING**
 
