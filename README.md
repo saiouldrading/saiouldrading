@@ -3,8 +3,8 @@
 # <img src="a-bearded-rude-and-lying-man-with-glasses__274c26c9 (1).png" width="150px"/>
 
 
-**SAI OULDRADING**!
-
+<h2>**SAI OULDRADING**!
+</h2>
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=80&lines=GAME+DEVELOPER;UNITY+WIZARD;DIGITAL+ARCHITECT;SURVIVAL+HORROR+EXPERT)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,21&height=150&section=header&text=CODE%20%2B%20CREATIVITY&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Building%20Tomorrow's%20Gaming%20Experience&descAlignY=60&descSize=15" width="100%"/>
