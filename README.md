@@ -1,6 +1,6 @@
 <div align="center">
 
-![Uploading a-bearded-rude-and-lying-man-with-glasses__274c26c9 (1).png…]()
+# <img src="a-bearded-rude-and-lying-man-with-glasses__274c26c9 (1).png" width="150px"/>
 
 
 # <img src="a-bearded-rude-and-lying-man-with-glasses__274c26c9 (1).png" width="30px"/> **SAI OULDRADING**!
