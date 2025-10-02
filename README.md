@@ -154,14 +154,14 @@ public class SeniorUnityDeveloper : MonoBehaviour
 
 ### 📊 **Development Progress Tracker**
 
-| System Module | Status | Completion |
-|--------------|--------|------------|
-| **Core Gameplay Framework** | ✅ Complete | ![100%](https://progress-bar.dev/100?color=00ff00) |
-| **Character Controller System** | ✅ Complete | ![100%](https://progress-bar.dev/100?color=00ff00) |
-| **Advanced AI Behavior Trees** | ⚠️ In Progress | ![85%](https://progress-bar.dev/85?color=ffd700) |
-| **Dynamic Dialogue System** | ✅ Complete | ![100%](https://progress-bar.dev/100?color=00ff00) |
-| **Procedural Environment** | ⚠️ In Progress | ![70%](https://progress-bar.dev/70?color=ff6b35) |
-| **Combat & Gore System** | ⚠️ In Progress | ![75%](https://progress-bar.dev/75?color=ff6b35) |
+| System Module | Status |
+|--------------|--------|
+| **Core Gameplay Framework** | ✅ Complete |
+| **Character Controller System** | ✅ Complete | 
+| **Advanced AI Behavior Trees** | ⚠️ In Progress |
+| **Dynamic Dialogue System** | ✅ Complete | 
+| **Procedural Environment** | ⚠️ In Progress | 
+| **Combat & Gore System** | ⚠️ In Progress | 
 
 ---
 
