@@ -21,18 +21,20 @@
 ```csharp
 public class Developer {
     string name = "Sai Ouldrading";
-    string[] skills = {"Unity", "C#", "Game Design", "AI Systems"};
-    string currentProject = "Ashes of Us - Survival Horror";
-    bool lovesGaming = true;
+    string[] expertise = {"Unity", "Unreal Engine", "Blender", "C#", "C++"};
+    string passion = "Creating Immersive Game Experiences";
+    bool masterOfTools = true;
     
-    void Start() => CreateAwesomeGames();
+    void Start() => BuildAmazingWorlds();
 }
 ```
 
-🎮 **Senior Unity Developer** | 🇵🇰 Pakistan  
-💀 **Specialization:** Survival Horror & Narrative Games  
-🏆 **Unity Certified Professional**  
-🚀 **5+ Years** crafting immersive experiences
+**Assalam-o-Alaikum!** 👋 Main **Sai Ouldrading** hun, ek passionate game developer jo **Unity, Unreal Engine, Blender** aur modern game development tools par **complete mastery** rakhta hun! 
+
+🎮 **Game Development Expert** | 🇵🇰 Pakistan  
+💻 **Specialization:** Unity | Unreal Engine | 3D Modeling  
+🎨 **Master Tools:** Blender | Photoshop | After Effects  
+⚡ **Core Skills:** C# | C++ | Python | Game Design
 
 ---
 
@@ -40,15 +42,30 @@ public class Developer {
 
 <div align="center">
 
+### 🎮 Game Engines (Expert Level)
+
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
+
+### 🎨 3D & Design Tools (Master Level)
+
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+### 💻 Programming Languages
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### 🛠️ Development Tools
+
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
