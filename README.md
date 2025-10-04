@@ -1,481 +1,425 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sai Ouldrading - Unity Developer</title>
-    <style>
-        * {
-            margin: 0;
-            padding: 0;
-            box-sizing: border-box;
-        }
+<div align="center">
 
-        body {
-            background: linear-gradient(135deg, #0a0e27 0%, #1a1a2e 50%, #16213e 100%);
-            color: #fff;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            overflow-x: hidden;
-        }
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=SAI%20OULDRADING&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Senior%20Unity%20Developer%20%26%20Technical%20Architect&descAlignY=55&descSize=25)
 
-        .stars {
-            position: fixed;
-            width: 100%;
-            height: 100%;
-            pointer-events: none;
-        }
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=GAME+DEVELOPER+%7C+UNITY+WIZARD;DIGITAL+ARCHITECT+%7C+SURVIVAL+HORROR+EXPERT;Building+Tomorrow's+Gaming+Experience" alt="Typing SVG" />
 
-        .star {
-            position: absolute;
-            width: 2px;
-            height: 2px;
-            background: white;
-            border-radius: 50%;
-            animation: twinkle 3s infinite;
-        }
+<br>
 
-        @keyframes twinkle {
-            0%, 100% { opacity: 0.3; }
-            50% { opacity: 1; }
-        }
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saim-a26349358/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/saimk.k18/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ouldrading@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saiouldrading)
 
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
-            padding: 20px;
-            position: relative;
-            z-index: 1;
-        }
+![Profile Views](https://komarev.com/ghpvc/?username=saiouldrading&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
-        .header {
-            text-align: center;
-            padding: 60px 20px;
-            background: linear-gradient(135deg, rgba(0, 217, 255, 0.1), rgba(255, 107, 53, 0.1));
-            border-radius: 20px;
-            margin-bottom: 40px;
-            border: 2px solid rgba(0, 217, 255, 0.3);
-            position: relative;
-            overflow: hidden;
-        }
+</div>
 
-        .header::before {
-            content: '';
-            position: absolute;
-            top: -50%;
-            left: -50%;
-            width: 200%;
-            height: 200%;
-            background: radial-gradient(circle, rgba(0, 217, 255, 0.1) 0%, transparent 70%);
-            animation: rotate 20s linear infinite;
-        }
+---
 
-        @keyframes rotate {
-            from { transform: rotate(0deg); }
-            to { transform: rotate(360deg); }
-        }
+## 🎮 **WHO AM I?**
 
-        .title {
-            font-size: 3.5em;
-            font-weight: bold;
-            background: linear-gradient(90deg, #00d9ff, #ff6b35, #ffd700);
-            -webkit-background-clip: text;
-            -webkit-text-fill-color: transparent;
-            margin-bottom: 10px;
-            animation: glow 2s ease-in-out infinite;
-            position: relative;
-            z-index: 1;
-        }
-
-        @keyframes glow {
-            0%, 100% { filter: drop-shadow(0 0 20px rgba(0, 217, 255, 0.5)); }
-            50% { filter: drop-shadow(0 0 40px rgba(0, 217, 255, 0.8)); }
-        }
-
-        .subtitle {
-            font-size: 1.5em;
-            color: #00d9ff;
-            margin-bottom: 20px;
-            position: relative;
-            z-index: 1;
-        }
-
-        .typing-text {
-            font-size: 1.2em;
-            color: #ff6b35;
-            min-height: 40px;
-            position: relative;
-            z-index: 1;
-        }
-
-        .section {
-            background: rgba(255, 255, 255, 0.05);
-            border-radius: 15px;
-            padding: 30px;
-            margin-bottom: 30px;
-            border: 1px solid rgba(0, 217, 255, 0.2);
-            backdrop-filter: blur(10px);
-            transition: transform 0.3s, box-shadow 0.3s;
-        }
-
-        .section:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 10px 40px rgba(0, 217, 255, 0.3);
-        }
-
-        .section-title {
-            font-size: 2em;
-            margin-bottom: 20px;
-            color: #00d9ff;
-            display: flex;
-            align-items: center;
-            gap: 10px;
-        }
-
-        .skills-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
-            gap: 15px;
-            margin-top: 20px;
-        }
-
-        .skill-card {
-            background: linear-gradient(135deg, rgba(0, 217, 255, 0.1), rgba(255, 107, 53, 0.1));
-            padding: 20px;
-            border-radius: 10px;
-            text-align: center;
-            border: 1px solid rgba(0, 217, 255, 0.3);
-            transition: all 0.3s;
-            cursor: pointer;
-        }
-
-        .skill-card:hover {
-            transform: scale(1.1);
-            box-shadow: 0 0 30px rgba(0, 217, 255, 0.5);
-        }
-
-        .skill-icon {
-            font-size: 2.5em;
-            margin-bottom: 10px;
-        }
-
-        .project-card {
-            background: linear-gradient(135deg, rgba(139, 0, 0, 0.2), rgba(0, 0, 0, 0.3));
-            border: 2px solid #ff4444;
-            border-radius: 15px;
-            padding: 30px;
-            margin-top: 20px;
-            position: relative;
-            overflow: hidden;
-        }
-
-        .project-card::before {
-            content: '🧟';
-            position: absolute;
-            top: 10px;
-            right: 10px;
-            font-size: 4em;
-            opacity: 0.1;
-        }
-
-        .progress-bar {
-            background: rgba(255, 255, 255, 0.1);
-            border-radius: 10px;
-            height: 30px;
-            margin: 10px 0;
-            overflow: hidden;
-            position: relative;
-        }
-
-        .progress-fill {
-            height: 100%;
-            background: linear-gradient(90deg, #00d9ff, #ff6b35);
-            border-radius: 10px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            font-weight: bold;
-            transition: width 2s ease;
-        }
-
-        .character-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-            gap: 20px;
-            margin-top: 20px;
-        }
-
-        .character-card {
-            background: linear-gradient(135deg, rgba(0, 217, 255, 0.1), rgba(255, 107, 53, 0.1));
-            border-radius: 15px;
-            padding: 25px;
-            border: 2px solid rgba(0, 217, 255, 0.3);
-            transition: all 0.3s;
-        }
-
-        .character-card:hover {
-            transform: translateY(-10px);
-            border-color: #00d9ff;
-            box-shadow: 0 10px 40px rgba(0, 217, 255, 0.4);
-        }
-
-        .stats-grid {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-            gap: 15px;
-            margin-top: 20px;
-        }
-
-        .stat-card {
-            background: rgba(0, 217, 255, 0.1);
-            padding: 20px;
-            border-radius: 10px;
-            text-align: center;
-            border: 1px solid rgba(0, 217, 255, 0.3);
-        }
-
-        .stat-number {
-            font-size: 2.5em;
-            font-weight: bold;
-            color: #00d9ff;
-        }
-
-        .social-links {
-            display: flex;
-            justify-content: center;
-            gap: 20px;
-            flex-wrap: wrap;
-            margin-top: 20px;
-        }
-
-        .social-btn {
-            padding: 15px 30px;
-            border-radius: 10px;
-            text-decoration: none;
-            color: white;
-            font-weight: bold;
-            transition: all 0.3s;
-            border: 2px solid;
-        }
-
-        .social-btn:hover {
-            transform: scale(1.1);
-            box-shadow: 0 0 20px currentColor;
-        }
-
-        .linkedin { background: #0077B5; border-color: #0077B5; }
-        .instagram { background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); border-color: #e6683c; }
-        .github { background: #181717; border-color: #181717; }
-        .email { background: #D14836; border-color: #D14836; }
-
-        .quote {
-            text-align: center;
-            font-size: 1.5em;
-            font-style: italic;
-            color: #ffd700;
-            margin: 40px 0;
-            padding: 30px;
-            background: rgba(255, 215, 0, 0.1);
-            border-radius: 15px;
-            border-left: 5px solid #ffd700;
-        }
-
-        .footer {
-            text-align: center;
-            padding: 40px;
-            margin-top: 40px;
-            border-top: 2px solid rgba(0, 217, 255, 0.3);
-        }
-
-        @media (max-width: 768px) {
-            .title { font-size: 2em; }
-            .section-title { font-size: 1.5em; }
-            .skills-grid { grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); }
-        }
-    </style>
-</head>
-<body>
-    <div class="stars" id="stars"></div>
+```csharp
+public class SeniorUnityDeveloper : MonoBehaviour
+{
+    private Developer sai = new Developer()
+    {
+        Name = "Sai Ouldrading",
+        Title = "Unity Technical Lead",
+        Location = "Abbottabad, Pakistan 🇵🇰",
+        Specialization = "Survival Horror & Narrative Games",
+        YearsOfExperience = "5+",
+        PassionLevel = "MAXIMUM 🔥"
+    };
     
-    <div class="container">
-        <div class="header">
-            <div class="title">👋 SAI OULDRADING</div>
-            <div class="subtitle">Senior Unity Developer & Technical Architect</div>
-            <div class="typing-text" id="typing"></div>
-        </div>
+    private string[] expertise = {
+        "Unity Engine Architecture",
+        "Advanced C# Programming", 
+        "Performance Optimization",
+        "Gameplay Systems Design",
+        "AI & Procedural Generation"
+    };
+    
+    void Start() {
+        Debug.Log("🎯 Ready to build EPIC games!");
+        CreateMasterpiece();
+    }
+}
+```
 
-        <div class="section">
-            <div class="section-title">⚡ Technical Arsenal</div>
-            <div class="skills-grid">
-                <div class="skill-card"><div class="skill-icon">🎮</div>Unity Engine</div>
-                <div class="skill-card"><div class="skill-icon">💻</div>C# Expert</div>
-                <div class="skill-card"><div class="skill-icon">🔥</div>C++</div>
-                <div class="skill-card"><div class="skill-icon">🐍</div>Python</div>
-                <div class="skill-card"><div class="skill-icon">🎨</div>Blender</div>
-                <div class="skill-card"><div class="skill-icon">📐</div>Cinema 4D</div>
-                <div class="skill-card"><div class="skill-icon">🖼️</div>Photoshop</div>
-                <div class="skill-card"><div class="skill-icon">🌐</div>AWS</div>
-                <div class="skill-card"><div class="skill-icon">🔗</div>Git/GitHub</div>
-                <div class="skill-card"><div class="skill-icon">📊</div>Jira/Trello</div>
-                <div class="skill-card"><div class="skill-icon">🎯</div>Photon</div>
-                <div class="skill-card"><div class="skill-icon">✨</div>After Effects</div>
-            </div>
-        </div>
+<div align="center">
 
-        <div class="section">
-            <div class="section-title">🚀 Flagship Project: ASHES OF US</div>
-            <div class="project-card">
-                <h3 style="color: #ff4444; font-size: 1.8em; margin-bottom: 15px;">🧟‍♂️ ASHES OF US 🧟‍♀️</h3>
-                <p style="font-size: 1.2em; font-style: italic; margin-bottom: 20px;">"When humanity falls, two souls must rise..."</p>
-                <p style="margin-bottom: 20px;">Post-Apocalyptic Survival Horror | 2D Story-Driven | Unity 2022 LTS</p>
-                
-                <div style="margin-top: 30px;">
-                    <h4 style="color: #00d9ff; margin-bottom: 15px;">Development Progress:</h4>
-                    
-                    <div>Core Gameplay Framework<div class="progress-bar"><div class="progress-fill" style="width: 100%">100%</div></div></div>
-                    <div>Character Controller System<div class="progress-bar"><div class="progress-fill" style="width: 100%">100%</div></div></div>
-                    <div>Advanced AI Behavior Trees<div class="progress-bar"><div class="progress-fill" style="width: 65%">65%</div></div></div>
-                    <div>Dynamic Dialogue System<div class="progress-bar"><div class="progress-fill" style="width: 100%">100%</div></div></div>
-                    <div>Procedural Environment<div class="progress-bar"><div class="progress-fill" style="width: 70%">70%</div></div></div>
-                    <div>Combat & Gore System<div class="progress-bar"><div class="progress-fill" style="width: 55%">55%</div></div></div>
-                </div>
-            </div>
-        </div>
+### 🏆 **CERTIFICATIONS & ACHIEVEMENTS**
 
-        <div class="section">
-            <div class="section-title">👥 Character System</div>
-            <div class="character-grid">
-                <div class="character-card">
-                    <h3 style="color: #00d9ff; margin-bottom: 15px;">🛡️ RIVEN - The Tactical Guardian</h3>
-                    <p><strong>Role:</strong> Primary Combat & Strategy</p>
-                    <p><strong>Specialization:</strong> Military Tactics, Weapon Mastery</p>
-                    <p><strong>Focus:</strong> AI-driven combat behaviors</p>
-                    <p style="margin-top: 15px; font-style: italic; color: #ffd700;">"Military precision meets survival instinct"</p>
-                </div>
-                <div class="character-card">
-                    <h3 style="color: #ff6b35; margin-bottom: 15px;">❤️ THEO - The Emotional Anchor</h3>
-                    <p><strong>Role:</strong> Narrative Driver & Support</p>
-                    <p><strong>Specialization:</strong> Story Progression, Team Morale</p>
-                    <p><strong>Focus:</strong> Dynamic dialogue systems</p>
-                    <p style="margin-top: 15px; font-style: italic; color: #ffd700;">"Hope in the darkest times"</p>
-                </div>
-            </div>
-        </div>
+![Unity Certified](https://img.shields.io/badge/Unity%20Certified%20Professional-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile%20Scrum%20Master-0052CC?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![C# Expert](https://img.shields.io/badge/C%23%20Advanced-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
-        <div class="section">
-            <div class="section-title">📊 Professional Metrics</div>
-            <div class="stats-grid">
-                <div class="stat-card">
-                    <div class="stat-number">45+</div>
-                    <div>Weekly Commits</div>
-                </div>
-                <div class="stat-card">
-                    <div class="stat-number">98%</div>
-                    <div>Bug Resolution</div>
-                </div>
-                <div class="stat-card">
-                    <div class="stat-number">18</div>
-                    <div>Months Dev Cycle</div>
-                </div>
-                <div class="stat-card">
-                    <div class="stat-number">100%</div>
-                    <div>Passion Level</div>
-                </div>
-            </div>
-        </div>
+</div>
 
-        <div class="section">
-            <div class="section-title">🏆 Inspiration Sources</div>
-            <div class="skills-grid">
-                <div class="skill-card"><div class="skill-icon">🧟</div>Dying Light</div>
-                <div class="skill-card"><div class="skill-icon">🤠</div>Red Dead 2</div>
-                <div class="skill-card"><div class="skill-icon">💔</div>The Last of Us</div>
-                <div class="skill-card"><div class="skill-icon">🌃</div>Cyberpunk 2077</div>
-                <div class="skill-card"><div class="skill-icon">🗺️</div>Uncharted</div>
-                <div class="skill-card"><div class="skill-icon">⚔️</div>God of War</div>
-            </div>
-        </div>
+---
 
-        <div class="quote">
-            "Code is poetry written in logic. Every bug is a puzzle waiting to be solved. Dream in code, build in reality." 💫
-        </div>
+## ⚡ **TECH STACK & ARSENAL**
 
-        <div class="section">
-            <div class="section-title">🤝 Connect & Collaborate</div>
-            <div class="social-links">
-                <a href="https://www.linkedin.com/in/muhammad-saim-a26349358/" class="social-btn linkedin">LinkedIn</a>
-                <a href="https://www.instagram.com/saimk.k18/" class="social-btn instagram">Instagram</a>
-                <a href="https://github.com/saiouldrading" class="social-btn github">GitHub</a>
-                <a href="mailto:Ouldrading@gmail.com" class="social-btn email">Email</a>
-            </div>
-            <div style="text-align: center; margin-top: 30px;">
-                <p style="font-size: 1.2em; color: #00d9ff;">🌟 Open For:</p>
-                <p style="margin-top: 10px;">Game Jams • Creative Projects • Technical Collaborations • Startup Ideas</p>
-            </div>
-        </div>
+<div align="center">
 
-        <div class="footer">
-            <h2 style="color: #00d9ff; margin-bottom: 20px;">🎯 Building tomorrow's gaming experiences, one line of code at a time!</h2>
-            <p style="color: #ffd700; font-size: 1.2em;">⭐ Keep pushing the boundaries! ⭐</p>
-        </div>
-    </div>
+### 🎯 **Core Technologies**
 
-    <script>
-        // Create stars
-        const starsContainer = document.getElementById('stars');
-        for (let i = 0; i < 100; i++) {
-            const star = document.createElement('div');
-            star.className = 'star';
-            star.style.left = Math.random() * 100 + '%';
-            star.style.top = Math.random() * 100 + '%';
-            star.style.animationDelay = Math.random() * 3 + 's';
-            starsContainer.appendChild(star);
-        }
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
-        // Typing animation
-        const phrases = [
-            "GAME DEVELOPER",
-            "UNITY WIZARD",
-            "DIGITAL ARCHITECT",
-            "SURVIVAL HORROR EXPERT"
-        ];
-        let phraseIndex = 0;
-        let charIndex = 0;
-        let isDeleting = false;
-        const typingElement = document.getElementById('typing');
+### 🎨 **Design & 3D Tools**
 
-        function type() {
-            const currentPhrase = phrases[phraseIndex];
-            
-            if (isDeleting) {
-                typingElement.textContent = currentPhrase.substring(0, charIndex - 1);
-                charIndex--;
-            } else {
-                typingElement.textContent = currentPhrase.substring(0, charIndex + 1);
-                charIndex++;
-            }
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Cinema4D](https://img.shields.io/badge/Cinema%204D-011A6A?style=for-the-badge&logo=cinema4d&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-            if (!isDeleting && charIndex === currentPhrase.length) {
-                setTimeout(() => isDeleting = true, 2000);
-            } else if (isDeleting && charIndex === 0) {
-                isDeleting = false;
-                phraseIndex = (phraseIndex + 1) % phrases.length;
-            }
+### 🛠️ **Development Tools**
 
-            setTimeout(type, isDeleting ? 50 : 100);
-        }
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-        type();
+### ☁️ **Cloud & Project Management**
 
-        // Animate progress bars on load
-        window.addEventListener('load', () => {
-            document.querySelectorAll('.progress-fill').forEach(bar => {
-                const width = bar.style.width;
-                bar.style.width = '0%';
-                setTimeout(() => {
-                    bar.style.width = width;
-                }, 500);
-            });
-        });
-    </script>
-</body>
-</html>
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+
+### 🌐 **Networking & Multiplayer**
+
+![Photon](https://img.shields.io/badge/Photon-004480?style=for-the-badge&logo=photon&logoColor=white)
+![Mirror](https://img.shields.io/badge/Mirror-FF6B6B?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 **FLAGSHIP PROJECT: ASHES OF US**
+
+<div align="center">
+
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║                                                              ║
+║              🧟‍♂️  A S H E S   O F   U S  🧟‍♀️                ║
+║                                                              ║
+║          "When humanity falls, two souls must rise..."      ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
+```
+
+![Genre](https://img.shields.io/badge/GENRE-Post%20Apocalyptic%20Survival-darkred?style=for-the-badge&labelColor=000000)
+![Platform](https://img.shields.io/badge/PLATFORM-PC%20%7C%20Steam-blue?style=for-the-badge&labelColor=000000&logo=steam)
+![Engine](https://img.shields.io/badge/ENGINE-Unity%202022%20LTS-black?style=for-the-badge&labelColor=000000&logo=unity)
+![Status](https://img.shields.io/badge/STATUS-In%20Development-orange?style=for-the-badge&labelColor=000000)
+
+</div>
+
+### 📋 **PROJECT OVERVIEW**
+
+| 🎯 Aspect | 📊 Details |
+|-----------|-----------|
+| **Genre** | Post-Apocalyptic Survival Horror |
+| **Style** | 2D Story-Driven Experience |
+| **Platform** | PC (Steam) → Console Ports Planned |
+| **Engine** | Unity 2022 LTS with URP |
+| **Team** | 2 Core Developers |
+| **Dev Cycle** | 18 Months (Ongoing) |
+| **Target Release** | Q4 2024 |
+
+### 📊 **DEVELOPMENT PROGRESS**
+
+```mermaid
+gantt
+    title Development Timeline
+    dateFormat YYYY-MM-DD
+    section Core Systems
+    Core Gameplay Framework    :done, 2023-01-01, 2023-04-30
+    Character Controller       :done, 2023-02-01, 2023-05-15
+    section Advanced Features
+    AI Behavior Trees          :active, 2023-06-01, 2024-01-31
+    Dynamic Dialogue System    :done, 2023-07-01, 2023-10-15
+    Procedural Environment     :active, 2023-09-01, 2024-02-28
+    Combat & Gore System       :active, 2023-10-01, 2024-03-31
+```
+
+| 🎯 System Module | 📊 Progress | ✅ Status |
+|-----------------|------------|----------|
+| **Core Gameplay Framework** | ![100%](https://progress-bar.dev/100?color=00d9ff) | ✅ Complete |
+| **Character Controller System** | ![100%](https://progress-bar.dev/100?color=00d9ff) | ✅ Complete |
+| **Advanced AI Behavior Trees** | ![65%](https://progress-bar.dev/65?color=ffd700) | ⚠️ In Progress |
+| **Dynamic Dialogue System** | ![100%](https://progress-bar.dev/100?color=00d9ff) | ✅ Complete |
+| **Procedural Environment** | ![70%](https://progress-bar.dev/70?color=ffd700) | ⚠️ In Progress |
+| **Combat & Gore System** | ![55%](https://progress-bar.dev/55?color=ff6b35) | ⚠️ In Progress |
+
+---
+
+## 👥 **CHARACTER SYSTEM**
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ **RIVEN**
+#### *The Tactical Guardian*
+
+```csharp
+[System.Serializable]
+public class Riven : BaseCharacter
+{
+    [Header("Combat Specs")]
+    public CombatStyle style = CombatStyle.Tactical;
+    public int weaponMastery = 95;
+    public int tacticalIQ = 88;
+    
+    public override void Execute() {
+        ApplyMilitaryPrecision();
+        DominateTheField();
+    }
+}
+```
+
+**⚔️ Role:** Primary Combat & Strategy  
+**🎯 Specialization:** Military Tactics  
+**💪 Skills:** Weapon Mastery, Leadership  
+**🧠 AI Focus:** Combat Behavior Trees
+
+> *"Military precision meets survival instinct"*
+
+</td>
+<td width="50%" valign="top">
+
+### ❤️ **THEO**
+#### *The Emotional Anchor*
+
+```csharp
+[System.Serializable]
+public class Theo : BaseCharacter
+{
+    [Header("Narrative Specs")]
+    public EmotionalDepth depth = EmotionalDepth.Maximum;
+    public int charisma = 92;
+    public int empathy = 96;
+    
+    public override void Inspire() {
+        BoostTeamMorale();
+        RestoreHope();
+    }
+}
+```
+
+**📖 Role:** Narrative Driver & Support  
+**🎯 Specialization:** Story Progression  
+**💫 Skills:** Diplomacy, Team Morale  
+**🧠 AI Focus:** Dynamic Dialogue
+
+> *"Hope in the darkest times"*
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 📊 **GITHUB STATISTICS**
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saiouldrading&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=FF6B35&fire_color=FF6B35"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=saiouldrading&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF6B35&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=00D9FF&sideNums=C9D1D9&dates=C9D1D9"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiouldrading&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=saiouldrading&theme=react-dark&hide_border=true&bg_color=0D1117&color=00D9FF&line=FF6B35&point=00D9FF)
+
+</div>
+
+### 💻 **PRODUCTIVITY METRICS**
+
+<div align="center">
+
+| 📊 Metric | 🎯 Performance |
+|-----------|---------------|
+| **Weekly Commits** | 45+ commits/week |
+| **Code Review Activity** | High Priority |
+| **Bug Resolution Rate** | 98% Success |
+| **Feature Completion** | Ahead of Schedule |
+| **Documentation** | Comprehensive |
+| **Team Collaboration** | Excellent |
+
+![Productivity](https://img.shields.io/badge/Weekly%20Commits-45+-00D9FF?style=for-the-badge&labelColor=000000)
+![Bug Rate](https://img.shields.io/badge/Bug%20Resolution-98%25-00FF00?style=for-the-badge&labelColor=000000)
+![Schedule](https://img.shields.io/badge/Schedule-Ahead-FFD700?style=for-the-badge&labelColor=000000)
+
+</div>
+
+---
+
+## 🔬 **RESEARCH & INNOVATION**
+
+<div align="center">
+
+### 🧠 **ACTIVE RESEARCH AREAS**
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg"/>
+<br><strong>Unity DOTS</strong>
+<br><sub>Performance Optimization</sub>
+</td>
+<td align="center" width="25%">
+<img width="60" src="https://cdn-icons-png.flaticon.com/512/8943/8943377.png"/>
+<br><strong>Advanced AI</strong>
+<br><sub>Behavior Trees & ML</sub>
+</td>
+<td align="center" width="25%">
+<img width="60" src="https://cdn-icons-png.flaticon.com/512/3179/3179068.png"/>
+<br><strong>Procedural Gen</strong>
+<br><sub>Dynamic Worlds</sub>
+</td>
+<td align="center" width="25%">
+<img width="60" src="https://cdn-icons-png.flaticon.com/512/2920/2920277.png"/>
+<br><strong>Multiplayer</strong>
+<br><sub>Netcode Solutions</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+### 🎮 **GAME ANALYSIS & INSPIRATION**
+
+| 🎮 Game | 🔍 Research Focus | 💡 Key Learnings |
+|---------|------------------|-------------------|
+| 🧟 **Dying Light** | Parkour Mechanics | Advanced movement physics, Day/Night AI |
+| 🤠 **Red Dead Redemption 2** | Open World Design | Environmental storytelling, NPC routines |
+| 💔 **The Last of Us** | Narrative Design | Character development, emotional pacing |
+| 🌃 **Cyberpunk 2077** | Urban Environment | Verticality, dynamic lighting systems |
+| ⚔️ **God of War** | Combat Design | Weapon mechanics, cinematic gameplay |
+| 🗺️ **Uncharted Series** | Level Design | Pacing, set pieces, adventure flow |
+
+---
+
+## 🏆 **INSPIRATION HALL OF FAME**
+
+<div align="center">
+
+![Dying Light](https://img.shields.io/badge/Dying%20Light-Parkour%20Horror%20Excellence-FF4444?style=for-the-badge&logo=steam&logoColor=white)
+![RDR2](https://img.shields.io/badge/Red%20Dead%202-Open%20World%20Mastery-8B4513?style=for-the-badge&logo=rockstargames&logoColor=white)
+![TLOU](https://img.shields.io/badge/The%20Last%20Of%20Us-Narrative%20Perfection-006400?style=for-the-badge&logo=playstation&logoColor=white)
+![Cyberpunk](https://img.shields.io/badge/Cyberpunk%202077-Future%20Vision-FFFF00?style=for-the-badge&logo=cdprojekt&logoColor=black)
+![Uncharted](https://img.shields.io/badge/Uncharted-Adventure%20Gold-FFD700?style=for-the-badge&logo=playstation&logoColor=white)
+![GOW](https://img.shields.io/badge/God%20Of%20War-Combat%20Mastery-DC143C?style=for-the-badge&logo=playstation&logoColor=white)
+
+</div>
+
+---
+
+## 💭 **DEVELOPER PHILOSOPHY**
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20poetry%20written%20in%20logic.%20Every%20bug%20is%20a%20puzzle%20waiting%20to%20be%20solved.&author=Sai%20Ouldrading&border=true" />
+
+<br><br>
+
+> ### 🎭 *"Code is poetry written in logic"*
+> 
+> ### 🧩 *"Every bug is a puzzle waiting to be solved"*
+> 
+> ### 💫 *"Dream in code, build in reality"*
+>
+> ### 🎮 *"Great games aren't made, they're crafted with passion"*
+
+</div>
+
+---
+
+## 🎯 **WHAT I'M UP TO**
+
+```javascript
+const currentFocus = {
+    🎮 project: "Ashes of Us - Survival Horror Game",
+    📚 learning: ["Unity DOTS", "Advanced AI Systems", "Procedural Generation"],
+    🔧 improving: ["Performance Optimization", "Shader Programming"],
+    🌟 exploring: ["VR Development", "Multiplayer Networking"],
+    💼 openFor: ["Game Jams", "Collaborations", "Indie Projects", "Startups"],
+    ☕ funFact: "I debug in my dreams!"
+};
+```
+
+<div align="center">
+
+### 🌟 **OPEN FOR COLLABORATION**
+
+![Game Jams](https://img.shields.io/badge/🎮%20Game%20Jams-Open-00D9FF?style=for-the-badge&labelColor=000000)
+![Creative Projects](https://img.shields.io/badge/💡%20Creative%20Projects-Available-FF6B35?style=for-the-badge&labelColor=000000)
+![Tech Collab](https://img.shields.io/badge/🤝%20Tech%20Collaboration-Welcome-00FF00?style=for-the-badge&labelColor=000000)
+![Startup Ideas](https://img.shields.io/badge/🚀%20Startup%20Ideas-Interested-FFD700?style=for-the-badge&labelColor=000000)
+
+</div>
+
+---
+
+## 🤝 **CONNECT WITH ME**
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/muhammad-saim-a26349358/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/saimk.k18/">
+<img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="mailto:Ouldrading@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/saiouldrading">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+### 📧 **Email:** Ouldrading@gmail.com
+### 🌍 **Location:** Abbottabad, Pakistan 🇵🇰
+### ⏰ **Timezone:** PKT (UTC+5)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 **CLOSING THOUGHTS**
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=800&lines=Building+tomorrow's+gaming+experiences;One+line+of+code+at+a+time;Turning+dreams+into+playable+reality;Let's+create+something+EPIC+together!" alt="Closing" />
+
+<br>
+
+### *"The best games are yet to be created. Let's build them together!"* 🚀
+
+<br>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=KEEP%20CREATING%20%7C%20KEEP%20GAMING&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=70)
+
+**⭐ From one developer to another - keep pushing the boundaries! ⭐**
+
+<sub>Made with 💙 by Sai Ouldrading | Last Updated: October 2024</sub>
+
+</div>
