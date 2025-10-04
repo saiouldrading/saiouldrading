@@ -1,376 +1,481 @@
-<div align="center">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sai Ouldrading - Unity Developer</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
 
+        body {
+            background: linear-gradient(135deg, #0a0e27 0%, #1a1a2e 50%, #16213e 100%);
+            color: #fff;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            overflow-x: hidden;
+        }
 
-# 👋 **SAI OULDRADING**
+        .stars {
+            position: fixed;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+        }
 
+        .star {
+            position: absolute;
+            width: 2px;
+            height: 2px;
+            background: white;
+            border-radius: 50%;
+            animation: twinkle 3s infinite;
+        }
 
-### Senior Unity Developer & Technical Architect
+        @keyframes twinkle {
+            0%, 100% { opacity: 0.3; }
+            50% { opacity: 1; }
+        }
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=60&lines=GAME+DEVELOPER;UNITY+WIZARD;DIGITAL+ARCHITECT;SURVIVAL+HORROR+EXPERT" alt="Typing SVG" />
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            position: relative;
+            z-index: 1;
+        }
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,21&height=150&section=header&text=CODE%20%2B%20CREATIVITY&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Building%20Tomorrow's%20Gaming%20Experience&descAlignY=60&descSize=15" width="100%"/>
+        .header {
+            text-align: center;
+            padding: 60px 20px;
+            background: linear-gradient(135deg, rgba(0, 217, 255, 0.1), rgba(255, 107, 53, 0.1));
+            border-radius: 20px;
+            margin-bottom: 40px;
+            border: 2px solid rgba(0, 217, 255, 0.3);
+            position: relative;
+            overflow: hidden;
+        }
 
-</div>
+        .header::before {
+            content: '';
+            position: absolute;
+            top: -50%;
+            left: -50%;
+            width: 200%;
+            height: 200%;
+            background: radial-gradient(circle, rgba(0, 217, 255, 0.1) 0%, transparent 70%);
+            animation: rotate 20s linear infinite;
+        }
 
----
+        @keyframes rotate {
+            from { transform: rotate(0deg); }
+            to { transform: rotate(360deg); }
+        }
 
-## 👨‍💼 **PROFESSIONAL PROFILE**
+        .title {
+            font-size: 3.5em;
+            font-weight: bold;
+            background: linear-gradient(90deg, #00d9ff, #ff6b35, #ffd700);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 10px;
+            animation: glow 2s ease-in-out infinite;
+            position: relative;
+            z-index: 1;
+        }
 
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
+        @keyframes glow {
+            0%, 100% { filter: drop-shadow(0 0 20px rgba(0, 217, 255, 0.5)); }
+            50% { filter: drop-shadow(0 0 40px rgba(0, 217, 255, 0.8)); }
+        }
 
-```csharp
-public class SeniorUnityDeveloper : MonoBehaviour
-{
-    [SerializeField] private string developerName = "Sai Ouldrading";
-    [SerializeField] private string title = "Unity Technical Lead";
-    [SerializeField] private string specialization = "Survival Horror & Narrative Games";
+        .subtitle {
+            font-size: 1.5em;
+            color: #00d9ff;
+            margin-bottom: 20px;
+            position: relative;
+            z-index: 1;
+        }
+
+        .typing-text {
+            font-size: 1.2em;
+            color: #ff6b35;
+            min-height: 40px;
+            position: relative;
+            z-index: 1;
+        }
+
+        .section {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 15px;
+            padding: 30px;
+            margin-bottom: 30px;
+            border: 1px solid rgba(0, 217, 255, 0.2);
+            backdrop-filter: blur(10px);
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+
+        .section:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 40px rgba(0, 217, 255, 0.3);
+        }
+
+        .section-title {
+            font-size: 2em;
+            margin-bottom: 20px;
+            color: #00d9ff;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .skills-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+            gap: 15px;
+            margin-top: 20px;
+        }
+
+        .skill-card {
+            background: linear-gradient(135deg, rgba(0, 217, 255, 0.1), rgba(255, 107, 53, 0.1));
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+            border: 1px solid rgba(0, 217, 255, 0.3);
+            transition: all 0.3s;
+            cursor: pointer;
+        }
+
+        .skill-card:hover {
+            transform: scale(1.1);
+            box-shadow: 0 0 30px rgba(0, 217, 255, 0.5);
+        }
+
+        .skill-icon {
+            font-size: 2.5em;
+            margin-bottom: 10px;
+        }
+
+        .project-card {
+            background: linear-gradient(135deg, rgba(139, 0, 0, 0.2), rgba(0, 0, 0, 0.3));
+            border: 2px solid #ff4444;
+            border-radius: 15px;
+            padding: 30px;
+            margin-top: 20px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .project-card::before {
+            content: '🧟';
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            font-size: 4em;
+            opacity: 0.1;
+        }
+
+        .progress-bar {
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 10px;
+            height: 30px;
+            margin: 10px 0;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .progress-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #00d9ff, #ff6b35);
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            transition: width 2s ease;
+        }
+
+        .character-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        .character-card {
+            background: linear-gradient(135deg, rgba(0, 217, 255, 0.1), rgba(255, 107, 53, 0.1));
+            border-radius: 15px;
+            padding: 25px;
+            border: 2px solid rgba(0, 217, 255, 0.3);
+            transition: all 0.3s;
+        }
+
+        .character-card:hover {
+            transform: translateY(-10px);
+            border-color: #00d9ff;
+            box-shadow: 0 10px 40px rgba(0, 217, 255, 0.4);
+        }
+
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            margin-top: 20px;
+        }
+
+        .stat-card {
+            background: rgba(0, 217, 255, 0.1);
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+            border: 1px solid rgba(0, 217, 255, 0.3);
+        }
+
+        .stat-number {
+            font-size: 2.5em;
+            font-weight: bold;
+            color: #00d9ff;
+        }
+
+        .social-links {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+            margin-top: 20px;
+        }
+
+        .social-btn {
+            padding: 15px 30px;
+            border-radius: 10px;
+            text-decoration: none;
+            color: white;
+            font-weight: bold;
+            transition: all 0.3s;
+            border: 2px solid;
+        }
+
+        .social-btn:hover {
+            transform: scale(1.1);
+            box-shadow: 0 0 20px currentColor;
+        }
+
+        .linkedin { background: #0077B5; border-color: #0077B5; }
+        .instagram { background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%); border-color: #e6683c; }
+        .github { background: #181717; border-color: #181717; }
+        .email { background: #D14836; border-color: #D14836; }
+
+        .quote {
+            text-align: center;
+            font-size: 1.5em;
+            font-style: italic;
+            color: #ffd700;
+            margin: 40px 0;
+            padding: 30px;
+            background: rgba(255, 215, 0, 0.1);
+            border-radius: 15px;
+            border-left: 5px solid #ffd700;
+        }
+
+        .footer {
+            text-align: center;
+            padding: 40px;
+            margin-top: 40px;
+            border-top: 2px solid rgba(0, 217, 255, 0.3);
+        }
+
+        @media (max-width: 768px) {
+            .title { font-size: 2em; }
+            .section-title { font-size: 1.5em; }
+            .skills-grid { grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); }
+        }
+    </style>
+</head>
+<body>
+    <div class="stars" id="stars"></div>
     
-    [Header("Core Competencies")]
-    private string[] technicalExpertise = {
-        "Unity Engine Architecture",
-        "Advanced C# Programming",
-        "Performance Optimization",
-        "Gameplay Systems Design"
-    };
-    
-    public void Start() {
-        Debug.Log("Ready to build amazing games!");
-    }
-}
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 🏆 **CERTIFICATIONS**
-- ✅ Unity Certified Professional
-- ✅ Agile Scrum Master
-- ✅ C# Advanced Programming
-- ✅ Game Design Principles
-
-### 📊 **DEVELOPMENT METHODOLOGY**
-![Agile](https://img.shields.io/badge/Agile%20Development-95%25-00D9FF?style=for-the-badge&logo=agile&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum%20Framework-90%25-FF6B35?style=for-the-badge&logo=scrumalliance&logoColor=white)
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## ⚡ **TECHNICAL MASTERY**
-
-<div align="center">
-
-### 🎮 **Game Development Arsenal**
-
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-
-</div>
-
-### 🔧 **Specialized Frameworks & Tools**
-
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Unity%20URP-FF4444?style=for-the-badge&logo=unity&logoColor=white"/><br>
-<sub><b>Universal Render Pipeline</b></sub><br>
-<sub>Optimized graphics rendering</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/Cinema%204D-011A6A?style=for-the-badge&logo=cinema4d&logoColor=white"/><br>
-<sub><b>3D Modeling & Animation</b></sub><br>
-<sub>Professional 3D assets</sub>
-</td>
-<td align="center" width="33%">
-<img src="https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white"/><br>
-<sub><b>Visual Effects</b></sub><br>
-<sub>Motion graphics mastery</sub>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/><br>
-<sub><b>Project Management</b></sub><br>
-<sub>Issue tracking & sprints</sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/><br>
-<sub><b>Agile Workflow</b></sub><br>
-<sub>Visual task management</sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Photon-004480?style=for-the-badge&logo=photon&logoColor=white"/><br>
-<sub><b>Multiplayer Engine</b></sub><br>
-<sub>Networking solutions</sub>
-</td>
-</tr>
-</table>
-
----
-
-## 🚀 **FLAGSHIP PROJECT: ASHES OF US**
-
-<div align="center">
-
-```ascii
-╔══════════════════════════════════════════════════════════╗
-║    🧟‍♂️ A S H E S   O F   U S 🧟‍♀️                        ║
-║                                                          ║
-║  "When humanity falls, two souls must rise..."          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-![Genre](https://img.shields.io/badge/GENRE-Post%20Apocalyptic%20Survival-darkred?style=for-the-badge&labelColor=000000)
-![Style](https://img.shields.io/badge/STYLE-2D%20Story%20Driven-orange?style=for-the-badge&labelColor=000000)
-![Engine](https://img.shields.io/badge/ENGINE-Unity%202D-blue?style=for-the-badge&labelColor=000000)
-
-</div>
-
-### 📋 **Project Specifications**
-
-| Metric | Specification |
-|--------|--------------|
-| **Platform** | PC (Steam) → Console Ports |
-| **Engine** | Unity 2022 LTS |
-| **Team Size** | 2 (Core Development) |
-| **Development Cycle** | 18 Months |
-| **Target Release** | Q4 2024 |
-
-### 📊 **Development Progress Tracker**
-
-| System Module | Status |
-|--------------|--------|
-| **Core Gameplay Framework** | ✅ Complete |
-| **Character Controller System** | ✅ Complete | 
-| **Advanced AI Behavior Trees** | ⚠️ In Progress |
-| **Dynamic Dialogue System** | ✅ Complete | 
-| **Procedural Environment** | ⚠️ In Progress | 
-| **Combat & Gore System** | ⚠️ In Progress | 
-
----
-
-## 👥 **CHARACTER SYSTEM DESIGN**
-
-<div align="center">
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ **RIVEN - The Tactical Guardian**
-
-```csharp
-[System.Serializable]
-public class CharacterRiven : BaseCharacter
-{
-    [Header("Combat Specialization")]
-    public CombatStyle primaryStyle = CombatStyle.Tactical;
-    public WeaponProficiency[] weaponSkills;
-    public SurvivalInstinct survivalTraits;
-    
-    public override void ExecuteAbility() {
-        // Military precision in action
-        ApplyTacticalAdvantage();
-    }
-}
-```
-
-**Role:** Primary Combat & Strategy  
-**Specialization:** Military Tactics, Weapon Mastery  
-**Development Focus:** AI-driven combat behaviors  
-
-</td>
-<td width="50%" valign="top">
-
-### ❤️ **THEO - The Emotional Anchor**
-
-```csharp
-[System.Serializable]
-public class CharacterTheo : BaseCharacter
-{
-    [Header("Narrative Specialization")]
-    public DialogueTree personalStory;
-    public RelationshipSystem relationships;
-    public EmotionalState emotionalArc;
-    
-    public override void Inspire() {
-        // Hope in the darkest times
-        BoostTeamMorale();
-    }
-}
-```
-
-**Role:** Narrative Driver & Support  
-**Specialization:** Story Progression, Team Morale  
-**Development Focus:** Dynamic dialogue systems  
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## 📊 **PROFESSIONAL METRICS**
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saiouldrading&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=saiouldrading&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B35&currStreakLabel=00D9FF"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiouldrading&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
-
-</div>
-
-### 💻 **Productivity Metrics**
-
-```json
-{
-  "weekly_commit_avg": "45+ commits",
-  "code_review_activity": "High",
-  "project_contribution": "Full-Stack",
-  "technical_documentation": "Comprehensive",
-  "bug_resolution_rate": "98%",
-  "feature_completion": "Ahead of Schedule"
-}
-```
-
----
-
-## 🔬 **INDUSTRY ANALYSIS & RESEARCH**
-
-### 📚 **Active Technical Research**
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Unity%20DOTS-FF4444?style=for-the-badge&logo=unity&logoColor=white"/><br>
-<sub><b>Performance Optimization</b></sub><br>
-<sub>Data-Oriented Technology Stack</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Advanced%20AI-00D9FF?style=for-the-badge&logo=ai&logoColor=white"/><br>
-<sub><b>Behavior Trees</b></sub><br>
-<sub>Neural network integration</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Procedural%20Gen-8B4513?style=for-the-badge&logo=unity&logoColor=white"/><br>
-<sub><b>World Building</b></sub><br>
-<sub>Dynamic environment systems</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/Multiplayer-FFD700?style=for-the-badge&logo=network&logoColor=black"/><br>
-<sub><b>Netcode Solutions</b></sub><br>
-<sub>Photon & Mirror networking</sub>
-</td>
-</tr>
-</table>
-
-### 🎮 **Current Gaming Analysis**
-
-| Game Title | Research Focus | Technical Insights |
-|-----------|---------------|-------------------|
-| 🧟 **Dying Light** | Parkour & Combat | Movement physics, enemy AI patterns |
-| 🤠 **Red Dead Redemption 2** | Open World | Environmental storytelling, NPC routines |
-| 💔 **The Last of Us** | Narrative & Gameplay | Character development, emotional pacing |
-| 🌃 **Cyberpunk 2077** | Urban Environment | Verticality, dynamic lighting systems |
-
----
-
-## 🏆 **INSPIRATION HALL OF FAME**
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/DYING_LIGHT-FF4444?style=for-the-badge&logo=steam&logoColor=white"/><br>
-<sub><b>Parkour Horror Excellence</b></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/RED_DEAD_2-8B4513?style=for-the-badge&logo=rockstargames&logoColor=white"/><br>
-<sub><b>Open World Mastery</b></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/UNCHARTED-FFD700?style=for-the-badge&logo=playstation&logoColor=white"/><br>
-<sub><b>Adventure Perfection</b></sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/CYBERPUNK-FFFF00?style=for-the-badge&logo=cdprojekt&logoColor=black"/><br>
-<sub><b>Future Vision</b></sub>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 💭 **DEVELOPER PHILOSOPHY**
-
-<div align="center">
-
-> ### *"Code is poetry written in logic"* 🎭
-> ### *"Every bug is a puzzle waiting to be solved"* 🧩
-> ### *"Dream in code, build in reality"* 💫
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Every%20line%20of%20code%20is%20a%20step%20toward%20creating%20worlds%20that%20never%20existed%20before&author=Sai%20Ouldrading" />
-
-</div>
-
----
-
-## 🤝 **CONNECT & COLLABORATE**
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/muhammad-saim-a26349358/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
-</a>
-<a href="https://www.instagram.com/saimk.k18/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000"/>
-</a>
-<a href="mailto:Ouldrading@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
-</a>
-<a href="https://github.com/saiouldrading">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
-</a>
-
-### 🌟 **Open For:**
-
-![Game Jams](https://img.shields.io/badge/🎮_Game_Jams-00D9FF?style=for-the-badge&labelColor=000000)
-![Creative Projects](https://img.shields.io/badge/💡_Creative_Projects-FF6B35?style=for-the-badge&labelColor=000000)
-![Technical Collaborations](https://img.shields.io/badge/🤝_Technical_Collaborations-00FF00?style=for-the-badge&labelColor=000000)
-![Startup Ideas](https://img.shields.io/badge/🚀_Startup_Ideas-FFD700?style=for-the-badge&labelColor=000000)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,21&height=120&section=footer&text=KEEP%20CREATING&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=70" width="100%"/>
-
-### 🎯 **"Building tomorrow's gaming experiences, one line of code at a time!"**
-
-<img src="https://komarev.com/ghpvc/?username=saiouldrading&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS"/>
-
-**⭐ From one developer to another - keep pushing the boundaries! ⭐**
-
-</div>
+    <div class="container">
+        <div class="header">
+            <div class="title">👋 SAI OULDRADING</div>
+            <div class="subtitle">Senior Unity Developer & Technical Architect</div>
+            <div class="typing-text" id="typing"></div>
+        </div>
+
+        <div class="section">
+            <div class="section-title">⚡ Technical Arsenal</div>
+            <div class="skills-grid">
+                <div class="skill-card"><div class="skill-icon">🎮</div>Unity Engine</div>
+                <div class="skill-card"><div class="skill-icon">💻</div>C# Expert</div>
+                <div class="skill-card"><div class="skill-icon">🔥</div>C++</div>
+                <div class="skill-card"><div class="skill-icon">🐍</div>Python</div>
+                <div class="skill-card"><div class="skill-icon">🎨</div>Blender</div>
+                <div class="skill-card"><div class="skill-icon">📐</div>Cinema 4D</div>
+                <div class="skill-card"><div class="skill-icon">🖼️</div>Photoshop</div>
+                <div class="skill-card"><div class="skill-icon">🌐</div>AWS</div>
+                <div class="skill-card"><div class="skill-icon">🔗</div>Git/GitHub</div>
+                <div class="skill-card"><div class="skill-icon">📊</div>Jira/Trello</div>
+                <div class="skill-card"><div class="skill-icon">🎯</div>Photon</div>
+                <div class="skill-card"><div class="skill-icon">✨</div>After Effects</div>
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="section-title">🚀 Flagship Project: ASHES OF US</div>
+            <div class="project-card">
+                <h3 style="color: #ff4444; font-size: 1.8em; margin-bottom: 15px;">🧟‍♂️ ASHES OF US 🧟‍♀️</h3>
+                <p style="font-size: 1.2em; font-style: italic; margin-bottom: 20px;">"When humanity falls, two souls must rise..."</p>
+                <p style="margin-bottom: 20px;">Post-Apocalyptic Survival Horror | 2D Story-Driven | Unity 2022 LTS</p>
+                
+                <div style="margin-top: 30px;">
+                    <h4 style="color: #00d9ff; margin-bottom: 15px;">Development Progress:</h4>
+                    
+                    <div>Core Gameplay Framework<div class="progress-bar"><div class="progress-fill" style="width: 100%">100%</div></div></div>
+                    <div>Character Controller System<div class="progress-bar"><div class="progress-fill" style="width: 100%">100%</div></div></div>
+                    <div>Advanced AI Behavior Trees<div class="progress-bar"><div class="progress-fill" style="width: 65%">65%</div></div></div>
+                    <div>Dynamic Dialogue System<div class="progress-bar"><div class="progress-fill" style="width: 100%">100%</div></div></div>
+                    <div>Procedural Environment<div class="progress-bar"><div class="progress-fill" style="width: 70%">70%</div></div></div>
+                    <div>Combat & Gore System<div class="progress-bar"><div class="progress-fill" style="width: 55%">55%</div></div></div>
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="section-title">👥 Character System</div>
+            <div class="character-grid">
+                <div class="character-card">
+                    <h3 style="color: #00d9ff; margin-bottom: 15px;">🛡️ RIVEN - The Tactical Guardian</h3>
+                    <p><strong>Role:</strong> Primary Combat & Strategy</p>
+                    <p><strong>Specialization:</strong> Military Tactics, Weapon Mastery</p>
+                    <p><strong>Focus:</strong> AI-driven combat behaviors</p>
+                    <p style="margin-top: 15px; font-style: italic; color: #ffd700;">"Military precision meets survival instinct"</p>
+                </div>
+                <div class="character-card">
+                    <h3 style="color: #ff6b35; margin-bottom: 15px;">❤️ THEO - The Emotional Anchor</h3>
+                    <p><strong>Role:</strong> Narrative Driver & Support</p>
+                    <p><strong>Specialization:</strong> Story Progression, Team Morale</p>
+                    <p><strong>Focus:</strong> Dynamic dialogue systems</p>
+                    <p style="margin-top: 15px; font-style: italic; color: #ffd700;">"Hope in the darkest times"</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="section-title">📊 Professional Metrics</div>
+            <div class="stats-grid">
+                <div class="stat-card">
+                    <div class="stat-number">45+</div>
+                    <div>Weekly Commits</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">98%</div>
+                    <div>Bug Resolution</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">18</div>
+                    <div>Months Dev Cycle</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number">100%</div>
+                    <div>Passion Level</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="section">
+            <div class="section-title">🏆 Inspiration Sources</div>
+            <div class="skills-grid">
+                <div class="skill-card"><div class="skill-icon">🧟</div>Dying Light</div>
+                <div class="skill-card"><div class="skill-icon">🤠</div>Red Dead 2</div>
+                <div class="skill-card"><div class="skill-icon">💔</div>The Last of Us</div>
+                <div class="skill-card"><div class="skill-icon">🌃</div>Cyberpunk 2077</div>
+                <div class="skill-card"><div class="skill-icon">🗺️</div>Uncharted</div>
+                <div class="skill-card"><div class="skill-icon">⚔️</div>God of War</div>
+            </div>
+        </div>
+
+        <div class="quote">
+            "Code is poetry written in logic. Every bug is a puzzle waiting to be solved. Dream in code, build in reality." 💫
+        </div>
+
+        <div class="section">
+            <div class="section-title">🤝 Connect & Collaborate</div>
+            <div class="social-links">
+                <a href="https://www.linkedin.com/in/muhammad-saim-a26349358/" class="social-btn linkedin">LinkedIn</a>
+                <a href="https://www.instagram.com/saimk.k18/" class="social-btn instagram">Instagram</a>
+                <a href="https://github.com/saiouldrading" class="social-btn github">GitHub</a>
+                <a href="mailto:Ouldrading@gmail.com" class="social-btn email">Email</a>
+            </div>
+            <div style="text-align: center; margin-top: 30px;">
+                <p style="font-size: 1.2em; color: #00d9ff;">🌟 Open For:</p>
+                <p style="margin-top: 10px;">Game Jams • Creative Projects • Technical Collaborations • Startup Ideas</p>
+            </div>
+        </div>
+
+        <div class="footer">
+            <h2 style="color: #00d9ff; margin-bottom: 20px;">🎯 Building tomorrow's gaming experiences, one line of code at a time!</h2>
+            <p style="color: #ffd700; font-size: 1.2em;">⭐ Keep pushing the boundaries! ⭐</p>
+        </div>
+    </div>
+
+    <script>
+        // Create stars
+        const starsContainer = document.getElementById('stars');
+        for (let i = 0; i < 100; i++) {
+            const star = document.createElement('div');
+            star.className = 'star';
+            star.style.left = Math.random() * 100 + '%';
+            star.style.top = Math.random() * 100 + '%';
+            star.style.animationDelay = Math.random() * 3 + 's';
+            starsContainer.appendChild(star);
+        }
+
+        // Typing animation
+        const phrases = [
+            "GAME DEVELOPER",
+            "UNITY WIZARD",
+            "DIGITAL ARCHITECT",
+            "SURVIVAL HORROR EXPERT"
+        ];
+        let phraseIndex = 0;
+        let charIndex = 0;
+        let isDeleting = false;
+        const typingElement = document.getElementById('typing');
+
+        function type() {
+            const currentPhrase = phrases[phraseIndex];
+            
+            if (isDeleting) {
+                typingElement.textContent = currentPhrase.substring(0, charIndex - 1);
+                charIndex--;
+            } else {
+                typingElement.textContent = currentPhrase.substring(0, charIndex + 1);
+                charIndex++;
+            }
+
+            if (!isDeleting && charIndex === currentPhrase.length) {
+                setTimeout(() => isDeleting = true, 2000);
+            } else if (isDeleting && charIndex === 0) {
+                isDeleting = false;
+                phraseIndex = (phraseIndex + 1) % phrases.length;
+            }
+
+            setTimeout(type, isDeleting ? 50 : 100);
+        }
+
+        type();
+
+        // Animate progress bars on load
+        window.addEventListener('load', () => {
+            document.querySelectorAll('.progress-fill').forEach(bar => {
+                const width = bar.style.width;
+                bar.style.width = '0%';
+                setTimeout(() => {
+                    bar.style.width = width;
+                }, 500);
+            });
+        });
+    </script>
+</body>
+</html>
