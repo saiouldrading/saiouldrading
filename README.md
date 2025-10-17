@@ -153,6 +153,6 @@ public:
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=KEEP%20CREATING%20%7C%20KEEP%20GAMING&fontSize=35&fontColor=fff&animation=twinkling)
 
-**⭐ Made with 💙 by Sai Ouldrading ⭐**
+
 
 </div>
