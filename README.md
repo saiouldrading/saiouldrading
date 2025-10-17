@@ -10,22 +10,7 @@
 
 ---
 
-## 🚀 ABOUT ME
 
-```cpp
-class GameDeveloper {
-public:
-    string name = "Sai Ouldrading";
-    string role = "Game Developer & 3D Artist";
-    string[] expertise = {"Unity", "Unreal Engine", "Blender"};
-    string[] languages = {"C#", "C++", "Python"};
-    string location = "Pakistan 🇵🇰";
-    
-    void CreateMagic() {
-        cout << "Building immersive gaming experiences!" << endl;
-    }
-};
-```
 
 <div align="center">
 
