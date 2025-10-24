@@ -8,20 +8,6 @@
 
 </div>
 
----
-
-
-
-<div align="center">
-
-**Game Developer** | **Technical Artist** | **3D Specialist**
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=FFD700&center=true&vCenter=true&width=700&lines=Master+of+Unity+%26+Unreal+Engine;Expert+in+3D+Modeling+%26+Animation;Passionate+About+Game+Development;Creating+Tomorrow's+Experiences!)](https://git.io/typing-svg)
-
-</div>
-
----
-
 ## ⚡ SKILLS & EXPERTISE
 
 <div align="center">
