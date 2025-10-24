@@ -51,40 +51,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 
-</div>
-
----
-
-## 📊 GITHUB STATS
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saiouldrading&show_icons=true&theme=radical&hide_border=true&title_color=00D9FF&icon_color=FF6B35&text_color=fff&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=saiouldrading&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=FF6B35&fire=FF6B35&currStreakLabel=00D9FF"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiouldrading&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=fff"/>
-
-</div>
-
----
-
-## 🎯 CURRENTLY
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=700&lines=%F0%9F%94%A5+Creating+Amazing+Games;%F0%9F%A7%A0+Learning+Advanced+Systems;%F0%9F%8E%AE+Exploring+New+Technologies;%F0%9F%A4%9D+Open+for+Collaborations!)](https://git.io/typing-svg)
-
-</div>
-
-```javascript
-{
-  "focus": "Game Development",
-  "learning": ["Unity DOTS", "Advanced AI", "Procedural Generation"],
-  "tools": ["Unity", "Unreal Engine", "Blender"],
-  "openFor": ["Game Jams", "Collaborations", "Freelance Projects"],
-  "motto": "DREAM IN CODE, BUILD IN REALITY! 💫"
-}
-```
 
 <div align="center">
 
