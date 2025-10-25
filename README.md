@@ -7,6 +7,7 @@
 ![Views](https://komarev.com/ghpvc/?username=saiouldrading&color=blueviolet&style=flat-square)
 
 </div>
+---
 
 <div align="center">
 ![Unity](https://img.shields.io/badge/UNITY-000000?style=for-the-badge&logo=unity&logoColor=white)
