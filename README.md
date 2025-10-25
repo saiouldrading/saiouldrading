@@ -7,9 +7,13 @@
 ![Views](https://komarev.com/ghpvc/?username=saiouldrading&color=blueviolet&style=flat-square)
 
 </div>
+
 ---
 
 <div align="center">
+
+## 💫 SKILLS
+
 ![Unity](https://img.shields.io/badge/UNITY-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal](https://img.shields.io/badge/UNREAL-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Blender](https://img.shields.io/badge/BLENDER-F5792A?style=for-the-badge&logo=blender&logoColor=white)
