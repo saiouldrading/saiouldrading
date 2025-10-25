@@ -8,19 +8,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-## 💫 SKILLS
-
-```
-╔═══════════════════════════════════════╗
-║  🎮 ENGINES   ████████████░░  80%    ║
-║  🎨 3D ART    ███████████░░░  75%    ║
-║  💻 CODE      █████████████░  85%    ║
-╚═══════════════════════════════════════╝
-```
 
 ![Unity](https://img.shields.io/badge/UNITY-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal](https://img.shields.io/badge/UNREAL-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
