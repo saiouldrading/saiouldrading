@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=2000&pause=500&color=FF006E&center=true&vCenter=true&width=600&lines=🎮+GAME+DEVELOPER;🎨+3D+ARTIST;💻+C%23+|+C%2B%2B+CODER;⚡+UNITY+|+UNREAL+PRO)](https://git.io/typing-svg)
 
-![Views](https://komarev.com/ghpvc/?username=saiouldrading&color=blueviolet&style=flat-square)
+
 
 </div>
 
