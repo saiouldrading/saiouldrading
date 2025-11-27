@@ -40,7 +40,7 @@
 <div align="center">
 
 ## 🤝 CONNECT
-
+<div align="center">
 ```
 <div align="center">
 ╔════════════════════════════════╗
