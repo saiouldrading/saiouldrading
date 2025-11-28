@@ -27,7 +27,7 @@
 
 <div align="center">
 
-## 📊 STATS
+
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=saiouldrading&show_icons=true&theme=radical&border_color=ff006e&bg_color=0d1117&title_color=ff006e&icon_color=00d9ff&text_color=ffffff&hide=contribs)
 
