@@ -29,10 +29,6 @@
 
 
 
-
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saiouldrading&layout=compact&theme=radical&border_color=00d9ff&bg_color=0d1117&title_color=00d9ff)
-
 </div>
 
 ---
