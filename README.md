@@ -30,35 +30,44 @@
 ```ascii
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║          ⭐ CERTIFIED PROFESSIONAL ⭐                    ║
+║          🌟 UNITY CERTIFIED PROFESSIONAL 🌟             ║
 ║                                                          ║
 ║     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━       ║
 ║                                                          ║
-║           📜 VERIFIED CERTIFICATION 📜                   ║
+║         🎖️ CREDLY VERIFIED BADGE 🎖️                    ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
-<a href="https://www.certifiedskill.org/api/certificates?certificateNumber=d0601890-cd85-466f-af3e-6fae4868c337" target="_blank">
-  <img src="https://img.shields.io/badge/🎓_VIEW_CERTIFICATE-FFD700?style=for-the-badge&logo=googlescholar&logoColor=black&labelColor=1a1a1a" alt="View Certificate"/>
+<br>
+
+<a href="https://www.credly.com/badges/b7d625e7-f88b-4919-9d66-2989838bf2b1/public_url" target="_blank">
+  <img src="https://images.credly.com/size/680x680/images/03d1c2f6-6182-49bd-b5af-2ef6d28b5383/image.png" alt="Unity Certified Professional Badge" width="200px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/>
 </a>
 
 <br><br>
 
-[![Certificate](https://img.shields.io/badge/CERTIFIED-SKILL-00D9FF?style=for-the-badge&logo=checkmarx&logoColor=white)](https://www.certifiedskill.org/api/certificates?certificateNumber=d0601890-cd85-466f-af3e-6fae4868c337)
-[![Verified](https://img.shields.io/badge/✓_VERIFIED-SUCCESS-00FF00?style=for-the-badge)](https://www.certifiedskill.org/api/certificates?certificateNumber=d0601890-cd85-466f-af3e-6fae4868c337)
-[![Professional](https://img.shields.io/badge/STATUS-PROFESSIONAL-FF006E?style=for-the-badge&logo=statuspage&logoColor=white)](https://www.certifiedskill.org/api/certificates?certificateNumber=d0601890-cd85-466f-af3e-6fae4868c337)
+<a href="https://www.credly.com/badges/b7d625e7-f88b-4919-9d66-2989838bf2b1/public_url" target="_blank">
+  <img src="https://img.shields.io/badge/🎓_VIEW_CREDENTIAL-FF6B35?style=for-the-badge&logo=credly&logoColor=white&labelColor=1a1a1a" alt="View Credly Badge"/>
+</a>
+
+<br><br>
+
+[![Unity Certified](https://img.shields.io/badge/UNITY-CERTIFIED_PRO-000000?style=for-the-badge&logo=unity&logoColor=white)](https://www.credly.com/badges/b7d625e7-f88b-4919-9d66-2989838bf2b1/public_url)
+[![Credly](https://img.shields.io/badge/CREDLY-VERIFIED-FF6B35?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/b7d625e7-f88b-4919-9d66-2989838bf2b1/public_url)
+[![Professional](https://img.shields.io/badge/STATUS-CERTIFIED-00D9FF?style=for-the-badge&logo=statuspage&logoColor=white)](https://www.credly.com/badges/b7d625e7-f88b-4919-9d66-2989838bf2b1/public_url)
 
 <br>
 
-**🔗 Certificate ID:** `d0601890-cd85-466f-af3e-6fae4868c337`
+**🔗 Badge ID:** `b7d625e7-f88b-4919-9d66-2989838bf2b1`
 
 <br>
 
 ```diff
-+ ✨ Officially Certified & Industry Recognized
-+ 🌟 Validated Professional Skills
-+ 🚀 Ready for Complex Projects
++ ✨ Unity Certified Professional
++ 🌟 Industry-Recognized Credential
++ 🚀 Expert-Level Game Development Skills
++ 🎯 Credly Verified & Validated
 ```
 
 </div>
@@ -92,7 +101,7 @@
 
 ![GameJam](https://img.shields.io/badge/🎮_GAME_JAMS-READY-00D9FF?style=flat-square)
 ![Freelance](https://img.shields.io/badge/💼_FREELANCE-AVAILABLE-FFD700?style=flat-square)
-![Certified](https://img.shields.io/badge/🎓_CERTIFIED-PRO-FF006E?style=flat-square)
+![Certified](https://img.shields.io/badge/🎓_UNITY_CERTIFIED-PRO-000000?style=flat-square)
 
 </div>
 
@@ -100,7 +109,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=LET'S+BUILD+EPIC+GAMES!+🚀;OPEN+FOR+COLLABORATION!+✨;CERTIFIED+%26+VERIFIED!+🎓)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=11&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=LET'S+BUILD+EPIC+GAMES!+🚀;OPEN+FOR+COLLABORATION!+✨;UNITY+CERTIFIED+PRO!+🎓)](https://git.io/typing-svg)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,17,11&height=100&section=footer)
 
