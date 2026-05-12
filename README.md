@@ -62,13 +62,13 @@
 
 ### 💻 CISCO C++ ESSENTIALS
 
-<a href="https://www.credly.com/badges/your-cisco-badge-id" target="_blank">
+<a href="https://www.credly.com/badges/b7d625e7-f88b-4919-9d66-2989838bf2b1/public_url" target="_blank">
   <img src="https://images.credly.com/size/340x340/images/f6cc5c07-fa87-4c80-b2a8-6d35db49acf9/image.png" alt="" width="200px"/>
 </a>
 
 <br><br>
 
-[![View Badge](https://img.shields.io/badge/VIEW_CREDENTIAL-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/your-cisco-badge-id)
+[![View Badge](https://img.shields.io/badge/VIEW_CREDENTIAL-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/b7d625e7-f88b-4919-9d66-2989838bf2b1/public_url)
 
 **Programming Professional**
 
@@ -79,7 +79,7 @@
 <br>
 
 [![Unity Certified](https://img.shields.io/badge/UNITY-CERTIFIED_PRO-000000?style=for-the-badge&logo=unity&logoColor=white)](https://www.credly.com/badges/b7d625e7-f88b-4919-9d66-2989838bf2b1/public_url)
-[![Cisco Verified](https://img.shields.io/badge/CISCO-C++_ESSENTIALS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/your-cisco-badge-id)
+[![Cisco Verified](https://img.shields.io/badge/CISCO-C++_ESSENTIALS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/b7d625e7-f88b-4919-9d66-2989838bf2b1/public_url)
 [![Credly](https://img.shields.io/badge/CREDLY-VERIFIED-FF6B35?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com)
 [![Professional](https://img.shields.io/badge/STATUS-CERTIFIED-00D9FF?style=for-the-badge&logo=statuspage&logoColor=white)](#)
 
