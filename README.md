@@ -30,43 +30,66 @@
 ```ascii
 ╔══════════════════════════════════════════════════════════╗
 ║                                                          ║
-║          🌟 UNITY CERTIFIED PROFESSIONAL 🌟             ║
+║          🏆 PROFESSIONAL CERTIFICATIONS 🏆              ║
 ║                                                          ║
 ║     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━       ║
 ║                                                          ║
-║         🎖️ CREDLY VERIFIED BADGE 🎖️                    ║
+║      🎖️ UNITY PRO | CISCO VERIFIED 🎖️                 ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
 <br>
 
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🎮 UNITY CERTIFIED PROFESSIONAL
+
 <a href="https://www.credly.com/badges/b7d625e7-f88b-4919-9d66-2989838bf2b1/public_url" target="_blank">
-  <img src="https://images.credly.com/size/680x680/images/03d1c2f6-6182-49bd-b5af-2ef6d28b5383/image.png" alt="Unity Certified Professional Badge" width="200px" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);"/>
+  <img src="https://images.credly.com/size/340x340/images/03d1c2f6-6182-49bd-b5af-2ef6d28b5383/image.png" alt="" width="200px"/>
 </a>
 
 <br><br>
 
-<a href="https://www.credly.com/badges/b7d625e7-f88b-4919-9d66-2989838bf2b1/public_url" target="_blank">
-  <img src="https://img.shields.io/badge/🎓_VIEW_CREDENTIAL-FF6B35?style=for-the-badge&logo=credly&logoColor=white&labelColor=1a1a1a" alt="View Credly Badge"/>
+[![View Badge](https://img.shields.io/badge/VIEW_CREDENTIAL-FF6B35?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/b7d625e7-f88b-4919-9d66-2989838bf2b1/public_url)
+
+**Game Development Expert**
+
+</td>
+<td align="center" width="50%">
+
+### 💻 CISCO C++ ESSENTIALS
+
+<a href="https://www.credly.com/badges/your-cisco-badge-id" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/f6cc5c07-fa87-4c80-b2a8-6d35db49acf9/image.png" alt="" width="200px"/>
 </a>
 
 <br><br>
 
-[![Unity Certified](https://img.shields.io/badge/UNITY-CERTIFIED_PRO-000000?style=for-the-badge&logo=unity&logoColor=white)](https://www.credly.com/badges/b7d625e7-f88b-4919-9d66-2989838bf2b1/public_url)
-[![Credly](https://img.shields.io/badge/CREDLY-VERIFIED-FF6B35?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/badges/b7d625e7-f88b-4919-9d66-2989838bf2b1/public_url)
-[![Professional](https://img.shields.io/badge/STATUS-CERTIFIED-00D9FF?style=for-the-badge&logo=statuspage&logoColor=white)](https://www.credly.com/badges/b7d625e7-f88b-4919-9d66-2989838bf2b1/public_url)
+[![View Badge](https://img.shields.io/badge/VIEW_CREDENTIAL-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/your-cisco-badge-id)
+
+**Programming Professional**
+
+</td>
+</tr>
+</table>
 
 <br>
 
-**🔗 Badge ID:** `b7d625e7-f88b-4919-9d66-2989838bf2b1`
+[![Unity Certified](https://img.shields.io/badge/UNITY-CERTIFIED_PRO-000000?style=for-the-badge&logo=unity&logoColor=white)](https://www.credly.com/badges/b7d625e7-f88b-4919-9d66-2989838bf2b1/public_url)
+[![Cisco Verified](https://img.shields.io/badge/CISCO-C++_ESSENTIALS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/your-cisco-badge-id)
+[![Credly](https://img.shields.io/badge/CREDLY-VERIFIED-FF6B35?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com)
+[![Professional](https://img.shields.io/badge/STATUS-CERTIFIED-00D9FF?style=for-the-badge&logo=statuspage&logoColor=white)](#)
 
 <br>
 
 ```diff
-+ ✨ Unity Certified Professional
-+ 🌟 Industry-Recognized Credential
-+ 🚀 Expert-Level Game Development Skills
++ ✨ Unity Certified Professional - Game Development Expert
++ 💻 Cisco C++ Essentials - Programming Professional
++ 🌟 Industry-Recognized Credentials
++ 🚀 Dual Certified Developer
 + 🎯 Credly Verified & Validated
 ```
 
