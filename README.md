@@ -21,29 +21,7 @@
 
 </div>
 
----
 
-<div align="center">
-
-## 🏆 CERTIFICATIONS & ACHIEVEMENTS
-
-```ascii
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║          🏆 PROFESSIONAL CERTIFICATIONS 🏆              ║
-║                                                          ║
-║     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━       ║
-║                                                          ║
-║      🎖️ UNITY PRO | CISCO VERIFIED 🎖️                 ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
-<br>
-
-<table>
-<tr>
-<td align="center" width="50%">
 
 ### 🎮 UNITY CERTIFIED PROFESSIONAL
 
