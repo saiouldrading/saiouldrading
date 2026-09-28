@@ -23,10 +23,9 @@
 <a href="#"><img src="https://img.shields.io/badge/Cisco_C++-Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/></a>
 
 ### 📊 PLAYER STATS
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=saiouldrading&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiouldrading&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
-</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saiouldrading&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saiouldrading&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
 
 ### 🎮 MULTIPLAYER LOBBY
 <a href="https://www.linkedin.com/in/muhammad-saim-a26349358/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
