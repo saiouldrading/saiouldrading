@@ -29,7 +29,7 @@
 
 ### 🎮 MULTIPLAYER LOBBY
 <a href="https://www.linkedin.com/in/muhammad-saim-a26349358/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/saimk.k18/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/saimk.22/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="mailto:Ouldrading@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,6,17,11&height=70&section=footer)
